@@ -1,0 +1,485 @@
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\BIN\XSecsMsg_C40_01_64.dll
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\BIN\XSmNet_C40_01_64.dll
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\EmptyProject64\03. Source\PrjName\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X64\PrjName\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\MHP1000\03. Source\MHP1000\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\ParticleInspction\03. Source\ParticleInspction\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\VacLami\03. Source\VL2000\InoModule\obj\Debug\InoModule.FrmInput.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmInput.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmBinColor.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmTool.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmVision.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMap.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmCam1.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmCam2.resources
+C:\Works\91. Customer\06. C#\10. Other\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMapEditor.resources
+D:\Works\Bonder\InoModule\BIN\InoModuleX64.exe.config
+D:\Works\Bonder\InoModule\BIN\InoModuleX64.exe
+D:\Works\Bonder\InoModule\BIN\InoModuleX64.pdb
+D:\Works\Bonder\InoModule\BIN\UCL.dll
+D:\Works\Bonder\InoModule\BIN\UCL.pdb
+D:\Works\Bonder\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmMap.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmCam1.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmCam2.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.VisionView.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmBinColor.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmInput.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmEngr.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmHistory.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmConv.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmLot.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmManual.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmMessage.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmLogin.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmMain.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmOper.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmPos.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmProgress.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmSetting.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmTool.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmVision.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.FrmMapEditor.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+D:\Works\Bonder\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+D:\Works\Bonder\InoModule\obj\Debug\InoModuleX64.exe
+D:\Works\Bonder\InoModule\obj\Debug\InoModuleX64.pdb
+D:\BonderTest\03. Source\Bonder\InoModule\BIN\InoModuleX64.exe.config
+D:\BonderTest\03. Source\Bonder\InoModule\BIN\InoModuleX64.exe
+D:\BonderTest\03. Source\Bonder\InoModule\BIN\InoModuleX64.pdb
+D:\BonderTest\03. Source\Bonder\InoModule\BIN\UCL.dll
+D:\BonderTest\03. Source\Bonder\InoModule\BIN\UCL.pdb
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMap.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmCam1.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmCam2.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.VisionView.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmBinColor.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmInput.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmEngr.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmHistory.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmConv.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLot.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmManual.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMessage.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLogin.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMain.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmOper.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmPos.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmProgress.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetting.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmTool.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmVision.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMapEditor.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModuleX64.exe
+D:\BonderTest\03. Source\Bonder\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmMap.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmCam1.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmCam2.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmBinColor.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmInput.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmTool.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmVision.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.FrmMapEditor.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\Bonder_160605\Bonder\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmMap.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmCam1.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmCam2.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmBinColor.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmInput.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmTool.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.FrmVision.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\10. Other\Cleaner\03. Source\WaferCleaner\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMap.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmCam1.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmCam2.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmInput.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMManual.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMMotion.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMMotor.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMIO.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMDb.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMSetting.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMAdmin.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMProject.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmMOper.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmSTool.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmSCam.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmSMotor.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmSVision.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FrmSManual.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PixelSorter\InoModule\obj\Debug\InoModule.FormEzGem.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMap.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmCam1.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmCam2.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FormEzGem.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmInput.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMManual.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMMotion.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMMotor.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMIO.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMDb.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmSCam.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmSMotor.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmSVision.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmSManual.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMSetting.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMAdmin.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMProject.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmMOper.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.FrmSTool.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Sorter\03. Source\PLS2000\InoModule\obj\Debug\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMap.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmCam1.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmCam2.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FormEzGem.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmInput.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMManual.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMMotion.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMMotor.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMIO.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMDb.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSMotor.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSManual.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMSetting.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMAdmin.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMProject.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMOper.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSTool.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\BIN\InoModuleX64.exe.config
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\BIN\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\BIN\InoModuleX64.pdb
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModuleX64.exe
+C:\Works\91. Customer\06. C#\02. Led\PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModuleX64.pdb
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\BIN\InoModuleX64.exe.config
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\BIN\InoModuleX64.exe
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\BIN\InoModuleX64.pdb
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\BIN\UCL.pdb
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModuleX64.csprojResolveAssemblyReference.cache
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMap.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmCam1.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmCam2.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.VisionView.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FormEzGem.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmInput.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMManual.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMMotion.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMMotor.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMIO.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMDb.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSMotor.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSManual.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMSetting.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMAdmin.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMProject.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmLot.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMessage.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmLogin.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMain.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmMOper.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmProgress.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.FrmSTool.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModuleX64.csproj.GenerateResource.Cache
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModuleX64.exe
+D:\02.New\91. Customer\06. C#\03. PixelLed\Taping\03. Source\PLT2000\InoModule\obj\Debug\InoModuleX64.pdb

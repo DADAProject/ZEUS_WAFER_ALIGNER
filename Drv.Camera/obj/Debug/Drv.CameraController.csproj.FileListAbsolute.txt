@@ -1,0 +1,1074 @@
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\bin\Debug\CameraController.dll
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\bin\Debug\CameraController.pdb
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\bin\Debug\Basler.Pylon.dll
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\bin\Debug\GenApiDotNet20_v3_2.dll
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\bin\Debug\PylonC.NET.dll
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\bin\Debug\StApiDotNet20_v1_1.dll
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\obj\Debug\CameraController.frmControllerSetting.resources
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\obj\Debug\CameraController.dll
+C:\_CodeWork\WaferAligner_220218_11H_WAFERALIGNER001_1\Library\Drv.Camera\obj\Debug\CameraController.pdb
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\bin\Debug\CameraController.dll
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\bin\Debug\CameraController.pdb
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\bin\Debug\Basler.Pylon.dll
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\bin\Debug\GenApiDotNet20_v3_2.dll
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\bin\Debug\PylonC.NET.dll
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\bin\Debug\StApiDotNet20_v1_1.dll
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\obj\Debug\CameraController.frmControllerSetting.resources
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\obj\Debug\CameraController.dll
+C:\_CodeWork\WaferAligner\Library\Drv.Camera\obj\Debug\CameraController.pdb
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\Basler.Pylon.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\GenApiDotNet20_v3_2.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\MultiCam_NetApi.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\PylonC.NET.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\StApiDotNet20_v1_1.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\CameraController.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\CameraController.pdb
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\Basler.Pylon.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\GenApiDotNet20_v3_2.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\MultiCam_NetApi.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\PylonC.NET.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\StApiDotNet20_v1_1.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.frmControllerSetting.resources
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.pdb
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\Matrox.MatroxImagingLibrary.dll
+Z:\01. 개인폴더\유현우\98. Lib\Drv.ImageProcess\Drv.Camera\bin\Debug\Matrox.MatroxImagingLibrary.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.frmControllerSetting.resources
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.pdb
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\Basler.Pylon.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\GenApiDotNet20_v3_2.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\Matrox.MatroxImagingLibrary.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\MultiCam_NetApi.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\PylonC.NET.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\StApiDotNet20_v1_1.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\CameraController.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\CameraController.pdb
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\Basler.Pylon.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\GenApiDotNet20_v3_2.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\Matrox.MatroxImagingLibrary.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\MultiCam_NetApi.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\PylonC.NET.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\bin\Debug\StApiDotNet20_v1_1.dll
+C:\Users\imagi\OneDrive\바탕 화면\91. TNR\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\Basler.Pylon.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\Coaxlink_NetApi.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\GenApiDotNet20_v3_2.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\Matrox.MatroxImagingLibrary.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\MultiCam_NetApi.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\PylonC.NET.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Library\StApiDotNet20_v1_1.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\CameraController.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\CameraController.pdb
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Basler.Pylon.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Coaxlink_NetApi.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\GenApiDotNet20_v3_2.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\Matrox.MatroxImagingLibrary.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\MultiCam_NetApi.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\PylonC.NET.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\bin\Debug\StApiDotNet20_v1_1.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.frmControllerSetting.resources
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\Drv.Camera\obj\Debug\CameraController.pdb
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\Library\Basler.Pylon.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\Library\Coaxlink_NetApi.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\Library\GenApiDotNet20_v3_2.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\Library\Matrox.MatroxImagingLibrary.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\Library\MultiCam_NetApi.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\Library\PylonC.NET.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\Library\StApiDotNet20_v1_1.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\CameraController.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess\bin\CameraController.pdb
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Library\Basler.Pylon.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Library\Coaxlink_NetApi.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Library\GenApiDotNet20_v3_2.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Library\Matrox.MatroxImagingLibrary.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Library\MultiCam_NetApi.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Library\PylonC.NET.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Library\StApiDotNet20_v1_1.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Drv.CameraController.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\bin\Drv.CameraController.pdb
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\Drv.Camera\obj\Debug\Drv.CameraController.dll
+Z:\01. 개인폴더\유현우\12. TNR\03. Program\Drv.ImageProcess_22.4.22\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\03. Program\Drv.ImageProcess_Camera\bin\Library\Basler.Pylon.dll
+D:\03. Program\Drv.ImageProcess_Camera\bin\Library\Coaxlink_NetApi.dll
+D:\03. Program\Drv.ImageProcess_Camera\bin\Library\GenApiDotNet20_v3_2.dll
+D:\03. Program\Drv.ImageProcess_Camera\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\03. Program\Drv.ImageProcess_Camera\bin\Library\MultiCam_NetApi.dll
+D:\03. Program\Drv.ImageProcess_Camera\bin\Library\PylonC.NET.dll
+D:\03. Program\Drv.ImageProcess_Camera\bin\Library\StApiDotNet20_v1_1.dll
+D:\03. Program\Drv.ImageProcess_Camera\bin\Drv.CameraController.dll
+D:\03. Program\Drv.ImageProcess_Camera\bin\Drv.CameraController.pdb
+D:\03. Program\Drv.ImageProcess_Camera\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\03. Program\Drv.ImageProcess_Camera\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\03. Program\Drv.ImageProcess_Camera\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\03. Program\Drv.ImageProcess_Camera\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\03. Program\Drv.ImageProcess_Camera\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\03. Program\Drv.ImageProcess_Camera\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\03. Program\Drv.ImageProcess_Camera\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Library\Basler.Pylon.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Library\Coaxlink_NetApi.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Library\MultiCam_NetApi.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Library\PylonC.NET.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Library\StApiDotNet20_v1_1.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Drv.CameraController.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\bin\Drv.CameraController.pdb
+D:\03. Program\Drv.ImageProcess_Camera(220527)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\03. Program\Drv.ImageProcess_Camera(220527)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\03. Program\Drv.ImageProcess_Camera(220527)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\03. Program\Drv.ImageProcess_Camera(220527)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\03. Program\Drv.ImageProcess_Camera(220527)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\03. Program\Drv.ImageProcess_Camera(220527)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\03. Program\Drv.ImageProcess_Camera(220527)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Library\Basler.Pylon.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Library\Coaxlink_NetApi.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Library\GenApiDotNet20_v3_2.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Library\Matrox.MatroxImagingLibrary.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Library\MultiCam_NetApi.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Library\PylonC.NET.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Library\StApiDotNet20_v1_1.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Drv.CameraController.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\bin\Drv.CameraController.pdb
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+C:\Users\DAx2\Desktop\12. TNR\Drv.ImageProcess_Camera(220608)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Library\Basler.Pylon.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Library\Coaxlink_NetApi.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Library\MultiCam_NetApi.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Library\PylonC.NET.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Library\StApiDotNet20_v1_1.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Drv.CameraController.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\bin\Drv.CameraController.pdb
+D:\03. Program\Drv.ImageProcess_Camera(220614)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\03. Program\Drv.ImageProcess_Camera(220614)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\03. Program\Drv.ImageProcess_Camera(220614)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\03. Program\Drv.ImageProcess_Camera(220614)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\03. Program\Drv.ImageProcess_Camera(220614)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\03. Program\Drv.ImageProcess_Camera(220614)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\03. Program\Drv.ImageProcess_Camera(220614)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Library\Basler.Pylon.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Library\Coaxlink_NetApi.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Library\MultiCam_NetApi.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Library\PylonC.NET.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Library\StApiDotNet20_v1_1.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Drv.CameraController.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\bin\Drv.CameraController.pdb
+D:\03. Program\Drv.ImageProcess_Camera(220625)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\03. Program\Drv.ImageProcess_Camera(220625)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\03. Program\Drv.ImageProcess_Camera(220625)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\03. Program\Drv.ImageProcess_Camera(220625)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\03. Program\Drv.ImageProcess_Camera(220625)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\03. Program\Drv.ImageProcess_Camera(220625)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Library\Basler.Pylon.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Library\Coaxlink_NetApi.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Library\GenApiDotNet20_v3_2.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Library\Matrox.MatroxImagingLibrary.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Library\MultiCam_NetApi.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Library\PylonC.NET.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Library\StApiDotNet20_v1_1.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Drv.CameraController.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\bin\Drv.CameraController.pdb
+E:\Drv.ImageProcess_Camera(220706,GMF)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+E:\Drv.ImageProcess_Camera(220706,GMF)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+E:\Drv.ImageProcess_Camera(220706,GMF)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+E:\Drv.ImageProcess_Camera(220706,GMF)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+E:\Drv.ImageProcess_Camera(220706,GMF)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+E:\Drv.ImageProcess_Camera(220706,GMF)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+E:\Drv.ImageProcess_Camera(220706,GMF)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Library\Basler.Pylon.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Library\Coaxlink_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Library\MultiCam_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Library\PylonC.NET.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\bin\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220707,GMF, CODE,MOPH)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Library\Basler.Pylon.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Library\Coaxlink_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Library\MultiCam_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Library\PylonC.NET.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\bin\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220709)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\Drv.ImageProcess_Camera(220709)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\Drv.ImageProcess_Camera(220709)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\Drv.ImageProcess_Camera(220709)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\Drv.ImageProcess_Camera(220709)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work\Drv.ImageProcess_Camera(220709)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220709)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Library\Basler.Pylon.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Library\Coaxlink_NetApi.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Library\MultiCam_NetApi.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Library\PylonC.NET.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Library\StApiDotNet20_v1_1.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Drv.CameraController.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\bin\Drv.CameraController.pdb
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\11. TnR_Protec\Drv.ImageProcess_Camera(220710)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Library\Basler.Pylon.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Library\Coaxlink_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Library\MultiCam_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Library\PylonC.NET.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\bin\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220711)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\Drv.ImageProcess_Camera(220711)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\Drv.ImageProcess_Camera(220711)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\Drv.ImageProcess_Camera(220711)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\Drv.ImageProcess_Camera(220711)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work\Drv.ImageProcess_Camera(220711)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220711)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Library\Basler.Pylon.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Library\Coaxlink_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Library\MultiCam_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Library\PylonC.NET.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\bin\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220712)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\Drv.ImageProcess_Camera(220712)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\Drv.ImageProcess_Camera(220712)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\Drv.ImageProcess_Camera(220712)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\Drv.ImageProcess_Camera(220712)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work\Drv.ImageProcess_Camera(220712)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220712)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Library\Basler.Pylon.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Library\Coaxlink_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Library\MultiCam_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Library\PylonC.NET.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\bin\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220713)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\Drv.ImageProcess_Camera(220713)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\Drv.ImageProcess_Camera(220713)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\Drv.ImageProcess_Camera(220713)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\Drv.ImageProcess_Camera(220713)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work\Drv.ImageProcess_Camera(220713)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220713)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Library\Basler.Pylon.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Library\Coaxlink_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Library\MultiCam_NetApi.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Library\PylonC.NET.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\bin\Drv.CameraController.pdb
+D:\Work\Drv.ImageProcess_Camera(220714)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\Drv.ImageProcess_Camera(220714)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\Drv.ImageProcess_Camera(220714)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\Drv.ImageProcess_Camera(220714)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\Drv.ImageProcess_Camera(220714)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work\Drv.ImageProcess_Camera(220714)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\Drv.ImageProcess_Camera(220714)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work\Drv.Vision_220719\bin\Library\Basler.Pylon.dll
+D:\Work\Drv.Vision_220719\bin\Library\Coaxlink_NetApi.dll
+D:\Work\Drv.Vision_220719\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\Drv.Vision_220719\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\Drv.Vision_220719\bin\Library\MultiCam_NetApi.dll
+D:\Work\Drv.Vision_220719\bin\Library\PylonC.NET.dll
+D:\Work\Drv.Vision_220719\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\Drv.Vision_220719\bin\Drv.CameraController.dll
+D:\Work\Drv.Vision_220719\bin\Drv.CameraController.pdb
+D:\Work\Drv.Vision_220719\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\Drv.Vision_220719\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\Drv.Vision_220719\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\Drv.Vision_220719\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work\Drv.Vision_220719\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\Drv.Vision_220719\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Library\Basler.Pylon.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Library\Coaxlink_NetApi.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Library\GenApiDotNet20_v3_2.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Library\Matrox.MatroxImagingLibrary.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Library\MultiCam_NetApi.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Library\PylonC.NET.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Library\StApiDotNet20_v1_1.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Drv.CameraController.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\bin\Drv.CameraController.pdb
+F:\02. TnR Setup\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+F:\02. TnR Setup\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+F:\02. TnR Setup\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+F:\02. TnR Setup\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+F:\02. TnR Setup\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.dll
+F:\02. TnR Setup\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+F:\02. TnR Setup\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\Drv.Vision\bin\Library\Basler.Pylon.dll
+D:\Work\Drv.Vision\bin\Library\Coaxlink_NetApi.dll
+D:\Work\Drv.Vision\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\Drv.Vision\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\Drv.Vision\bin\Library\MultiCam_NetApi.dll
+D:\Work\Drv.Vision\bin\Library\PylonC.NET.dll
+D:\Work\Drv.Vision\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\Drv.Vision\bin\Drv.CameraController.dll
+D:\Work\Drv.Vision\bin\Drv.CameraController.pdb
+D:\Work\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+F:\88. Library\Drv.Vision\bin\Library\Basler.Pylon.dll
+F:\88. Library\Drv.Vision\bin\Library\Coaxlink_NetApi.dll
+F:\88. Library\Drv.Vision\bin\Library\GenApiDotNet20_v3_2.dll
+F:\88. Library\Drv.Vision\bin\Library\Matrox.MatroxImagingLibrary.dll
+F:\88. Library\Drv.Vision\bin\Library\MultiCam_NetApi.dll
+F:\88. Library\Drv.Vision\bin\Library\PylonC.NET.dll
+F:\88. Library\Drv.Vision\bin\Library\StApiDotNet20_v1_1.dll
+F:\88. Library\Drv.Vision\bin\Drv.CameraController.dll
+F:\88. Library\Drv.Vision\bin\Drv.CameraController.pdb
+F:\88. Library\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+F:\88. Library\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+F:\88. Library\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+F:\88. Library\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+F:\88. Library\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+F:\88. Library\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.dll
+F:\88. Library\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Basler.Pylon.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Coaxlink_NetApi.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\MultiCam_NetApi.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\PylonC.NET.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Drv.CameraController.dll.config
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Drv.CameraController.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\bin\Drv.CameraController.pdb
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work Projects\D3. Probe Station\03. Program\Drv.Vision\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Basler.Pylon.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Coaxlink_NetApi.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\MultiCam_NetApi.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\PylonC.NET.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Drv.CameraController.dll.config
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Drv.CameraController.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\bin\Drv.CameraController.pdb
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230125_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Basler.Pylon.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Coaxlink_NetApi.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\MultiCam_NetApi.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\PylonC.NET.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Drv.CameraController.dll.config
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Drv.CameraController.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\bin\Drv.CameraController.pdb
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work Projects\D4. WaferAligner\05. Program\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Basler.Pylon.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Coaxlink_NetApi.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\GenApiDotNet20_v3_2.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\Matrox.MatroxImagingLibrary.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\MultiCam_NetApi.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\PylonC.NET.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Library\StApiDotNet20_v1_1.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Drv.CameraController.dll.config
+C:\Works\eMachine_K230126_10H(Vision)\bin\Drv.CameraController.dll
+C:\Works\eMachine_K230126_10H(Vision)\bin\Drv.CameraController.pdb
+C:\Works\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+C:\Works\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+C:\Works\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\Works\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\Works\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+C:\Works\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.dll
+C:\Works\eMachine_K230126_10H(Vision)\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Basler.Pylon.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Coaxlink_NetApi.dll
+C:\Works\eMachine_K230129_10H\bin\Library\GenApiDotNet20_v3_2.dll
+C:\Works\eMachine_K230129_10H\bin\Library\Matrox.MatroxImagingLibrary.dll
+C:\Works\eMachine_K230129_10H\bin\Library\MultiCam_NetApi.dll
+C:\Works\eMachine_K230129_10H\bin\Library\PylonC.NET.dll
+C:\Works\eMachine_K230129_10H\bin\Library\StApiDotNet20_v1_1.dll
+C:\Works\eMachine_K230129_10H\bin\Drv.CameraController.dll.config
+C:\Works\eMachine_K230129_10H\bin\Drv.CameraController.dll
+C:\Works\eMachine_K230129_10H\bin\Drv.CameraController.pdb
+C:\Works\eMachine_K230129_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+C:\Works\eMachine_K230129_10H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+C:\Works\eMachine_K230129_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\Works\eMachine_K230129_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\Works\eMachine_K230129_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+C:\Works\eMachine_K230129_10H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+C:\Works\eMachine_K230129_10H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+C:\Works\eMachine\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+C:\Works\eMachine\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+C:\Works\eMachine\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+C:\Works\eMachine\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+C:\Works\eMachine\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+C:\Works\eMachine\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine\bin\Library\Basler.Pylon.dll
+C:\Works\eMachine\bin\Library\Coaxlink_NetApi.dll
+C:\Works\eMachine\bin\Library\GenApiDotNet20_v3_2.dll
+C:\Works\eMachine\bin\Library\Matrox.MatroxImagingLibrary.dll
+C:\Works\eMachine\bin\Library\MultiCam_NetApi.dll
+C:\Works\eMachine\bin\Library\PylonC.NET.dll
+C:\Works\eMachine\bin\Library\StApiDotNet20_v1_1.dll
+C:\Works\eMachine\bin\Drv.CameraController.dll.config
+C:\Works\eMachine\bin\Drv.CameraController.dll
+C:\Works\eMachine\bin\Drv.CameraController.pdb
+C:\Works\eMachine\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+C:\Works\eMachine\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\Works\eMachine\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\Works\eMachine\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+C:\Works\eMachine\Drv.Camera\obj\Debug\Drv.CameraController.dll
+C:\Works\eMachine\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Basler.Pylon.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Coaxlink_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\MultiCam_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\PylonC.NET.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.CameraController.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+C:\Works\eMachine\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Basler.Pylon.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Coaxlink_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\MultiCam_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\PylonC.NET.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Library\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Drv.CameraController.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\bin\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_13H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Basler.Pylon.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Coaxlink_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\MultiCam_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\PylonC.NET.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Library\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Drv.CameraController.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\bin\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_15H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Basler.Pylon.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Coaxlink_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\MultiCam_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\PylonC.NET.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Library\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Drv.CameraController.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\bin\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230206_18H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Basler.Pylon.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Coaxlink_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\MultiCam_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\PylonC.NET.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Library\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Drv.CameraController.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\bin\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Basler.Pylon.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Coaxlink_NetApi.dll
+C:\Works\eMachine_K230207_13H\bin\Library\GenApiDotNet20_v3_2.dll
+C:\Works\eMachine_K230207_13H\bin\Library\Matrox.MatroxImagingLibrary.dll
+C:\Works\eMachine_K230207_13H\bin\Library\MultiCam_NetApi.dll
+C:\Works\eMachine_K230207_13H\bin\Library\PylonC.NET.dll
+C:\Works\eMachine_K230207_13H\bin\Library\StApiDotNet20_v1_1.dll
+C:\Works\eMachine_K230207_13H\bin\Drv.CameraController.dll.config
+C:\Works\eMachine_K230207_13H\bin\Drv.CameraController.dll
+C:\Works\eMachine_K230207_13H\bin\Drv.CameraController.pdb
+C:\Works\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+C:\Works\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+C:\Works\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\Works\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\Works\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CopyComplete
+C:\Works\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+C:\Works\eMachine_K230207_13H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Basler.Pylon.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Coaxlink_NetApi.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\GenApiDotNet20_v3_2.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\MultiCam_NetApi.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\PylonC.NET.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Library\StApiDotNet20_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Drv.CameraController.dll.config
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Drv.CameraController.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\bin\Drv.CameraController.pdb
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250721_20H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Basler.Pylon.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Coaxlink_NetApi.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\GenApiDotNet20_v3_2.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\MultiCam_NetApi.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\PylonC.NET.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Library\StApiDotNet20_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Drv.CameraController.dll.config
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Drv.CameraController.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\bin\Drv.CameraController.pdb
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_250730_10H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Basler.Pylon.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Coaxlink_NetApi.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\GenApiDotNet20_v3_2.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\MultiCam_NetApi.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\PylonC.NET.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Library\StApiDotNet20_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Drv.CameraController.dll.config
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Drv.CameraController.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\bin\Drv.CameraController.pdb
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_251226_09H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Basler.Pylon.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Coaxlink_NetApi.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\GenApiDotNet20_v3_2.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\MultiCam_NetApi.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\PylonC.NET.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Library\StApiDotNet20_v1_1.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Drv.CameraController.dll.config
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Drv.CameraController.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\bin\Drv.CameraController.pdb
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\00.Work\03.ZEUS_WaferAligner\10.제어자료\Works\eMachine_260102_13H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Basler.Pylon.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Coaxlink_NetApi.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\GenApiDotNet20_v3_2.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\MultiCam_NetApi.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\PylonC.NET.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Library\StApiDotNet20_v1_1.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Drv.CameraController.dll.config
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Drv.CameraController.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\bin\Drv.CameraController.pdb
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\00.Work\97.Zeus_WaferAligner\eMachine_260109_10H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Basler.Pylon.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Coaxlink_NetApi.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\GenApiDotNet20_v3_2.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\MultiCam_NetApi.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\PylonC.NET.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Library\StApiDotNet20_v1_1.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Drv.CameraController.dll.config
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Drv.CameraController.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\bin\Drv.CameraController.pdb
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\00.Work\103.Zeus_WaferAligner\eMachine_260421_13H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+C:\Works\eMachine_260507_14H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+C:\Works\eMachine_260507_14H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+C:\Works\eMachine_260507_14H\bin\Library\Basler.Pylon.dll
+C:\Works\eMachine_260507_14H\bin\Library\Coaxlink_NetApi.dll
+C:\Works\eMachine_260507_14H\bin\Library\GenApiDotNet20_v3_2.dll
+C:\Works\eMachine_260507_14H\bin\Library\Matrox.MatroxImagingLibrary.dll
+C:\Works\eMachine_260507_14H\bin\Library\MultiCam_NetApi.dll
+C:\Works\eMachine_260507_14H\bin\Library\PylonC.NET.dll
+C:\Works\eMachine_260507_14H\bin\Library\StApiDotNet20_v1_1.dll
+C:\Works\eMachine_260507_14H\bin\Drv.CameraController.dll.config
+C:\Works\eMachine_260507_14H\bin\Drv.CameraController.dll
+C:\Works\eMachine_260507_14H\bin\Drv.CameraController.pdb
+C:\Works\eMachine_260507_14H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+C:\Works\eMachine_260507_14H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+C:\Works\eMachine_260507_14H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\Works\eMachine_260507_14H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\Works\eMachine_260507_14H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+C:\Works\eMachine_260507_14H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+C:\Works\eMachine_260507_14H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Basler.Pylon.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Coaxlink_NetApi.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\GenApiDotNet20_v3_2.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\Matrox.MatroxImagingLibrary.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\MultiCam_NetApi.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\PylonC.NET.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Library\StApiDotNet20_v1_1.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Drv.CameraController.dll.config
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Drv.CameraController.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\bin\Drv.CameraController.pdb
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+C:\1. WORK\8. DaDa\3. Aligner\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\Work\eMachine_260521_23H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\Work\eMachine_260521_23H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\Work\eMachine_260521_23H\bin\Library\Basler.Pylon.dll
+D:\Work\eMachine_260521_23H\bin\Library\Coaxlink_NetApi.dll
+D:\Work\eMachine_260521_23H\bin\Library\GenApiDotNet20_v3_2.dll
+D:\Work\eMachine_260521_23H\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\Work\eMachine_260521_23H\bin\Library\MultiCam_NetApi.dll
+D:\Work\eMachine_260521_23H\bin\Library\PylonC.NET.dll
+D:\Work\eMachine_260521_23H\bin\Library\StApiDotNet20_v1_1.dll
+D:\Work\eMachine_260521_23H\bin\Drv.CameraController.dll.config
+D:\Work\eMachine_260521_23H\bin\Drv.CameraController.dll
+D:\Work\eMachine_260521_23H\bin\Drv.CameraController.pdb
+D:\Work\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\Work\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\Work\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\Work\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\Work\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\Work\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\Work\eMachine_260521_23H\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Basler.Pylon.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Coaxlink_NetApi.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\GenApiDotNet20_v3_2.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\MultiCam_NetApi.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\PylonC.NET.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Library\StApiDotNet20_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Drv.CameraController.dll.config
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Drv.CameraController.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\bin\Drv.CameraController.pdb
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260617_11H_Ver.ROI\Drv.Camera\obj\Debug\Drv.CameraController.pdb
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Basler.Pylon.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Coaxlink_NetApi.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\GenApiDotNet20_v3_2.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\Matrox.MatroxImagingLibrary.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\MultiCam_NetApi.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\PylonC.NET.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Library\StApiDotNet20_v1_1.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Drv.CameraController.dll.config
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Drv.CameraController.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\bin\Drv.CameraController.pdb
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\Drv.Camera\obj\Debug\Drv.CameraController.csproj.AssemblyReference.cache
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\Drv.Camera\obj\Debug\Drv.CameraController.frmControllerSetting.resources
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\Drv.Camera\obj\Debug\Drv.CameraController.csproj.GenerateResource.cache
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\Drv.Camera\obj\Debug\Drv.CameraController.csproj.CoreCompileInputs.cache
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\Drv.Camera\obj\Debug\Drv.Came.B81DEEA2.Up2Date
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\Drv.Camera\obj\Debug\Drv.CameraController.dll
+D:\00.제어프로그램\05.ZEUS WAFER ALIGNER\01.최신 소스\eMachine_260804_18H_R1\Drv.Camera\obj\Debug\Drv.CameraController.pdb

@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="packages\SQLite.3.13.0\build\net45\SQLite.props" Condition="Exists('packages\SQLite.3.13.0\build\net45\SQLite.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5524E459-2618-4968-A435-F1E0EC16D220}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>eMachine</RootNamespace>
+    <AssemblyName>WAFERALIGNER</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>게시\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>BIN\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>DADA.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>BIN\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>BIN\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>eMachine.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedMotionApi_CLRLib, Version=1.0.7053.25050, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>COMMON\Include\Wmx3_x64\AdvancedMotionApi_CLRLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ApiBufferApi_CLRLib, Version=1.0.7053.24974, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>COMMON\Include\Wmx3_x64\ApiBufferApi_CLRLib.dll</HintPath>
+    </Reference>
+    <Reference Include="BigMansStuff.LocusEffects">
+      <HintPath>COMMON\Base\BigMansStuff.LocusEffects.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="CoreMotionApi_CLRLib, Version=1.0.7053.24946, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>COMMON\Include\Wmx3_x64\CoreMotionApi_CLRLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Drv.CameraController, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BIN\Drv.CameraController.dll</HintPath>
+    </Reference>
+    <Reference Include="Drv.Control, Version=1.0.8278.27534, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BIN\Drv.Control.dll</HintPath>
+    </Reference>
+    <Reference Include="EcApi_CLRLib, Version=1.0.7017.30198, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>COMMON\Include\Wmx3_x64\EcApi_CLRLib.dll</HintPath>
+    </Reference>
+    <Reference Include="EcFilter_CLRLib, Version=1.0.6880.32587, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>COMMON\Include\Wmx3_x64\EcFilter_CLRLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ElmoMotionControlComponents.Common.EASComponents, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BIN\ElmoMotionControlComponents.Common.EASComponents.dll</HintPath>
+    </Reference>
+    <Reference Include="ElmoMotionControlComponents.GMAS.MMCLibDotNET, Version=2.1.1.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BIN\ElmoMotionControlComponents.GMAS.MMCLibDotNET.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.2.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.6.2.1\lib\net48\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="IOApi_CLRLib, Version=1.0.7053.24986, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>COMMON\Include\Wmx3_x64\IOApi_CLRLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MathNet.Numerics.5.0.0\lib\net48\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=AMD64">
+      <HintPath>packages\System.Data.SQLite.x64.1.0.117.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.SQLite.EF6.1.0.117.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.SQLite.Linq.1.0.117.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Common, Version=4.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BIN\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UCL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BIN\UCL.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="XGemPro_Net40_02_64, Version=3.4.1.9, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\XGemPro_Net40_02_64.dll</HintPath>
+    </Reference>
+    <Reference Include="YJ_CLib">
+      <HintPath>COMMON\Include\Etc\YJ_CLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Base\AvrFilter.cs" />
+    <Compile Include="Common\Base\cPerformanceTimer.cs" />
+    <Compile Include="Common\Base\cScreenEffects.cs" />
+    <Compile Include="Common\Base\DbUnit.cs" />
+    <Compile Include="Common\Base\Function.cs" />
+    <Compile Include="Common\Base\Helpers.cs" />
+    <Compile Include="Common\Base\IniUnit2.cs" />
+    <Compile Include="Common\Base\TimerUnit.cs" />
+    <Compile Include="Common\Base\WinAPI.cs" />
+    <Compile Include="Common\Forms\cFrmCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\cFrmCalendar.designer.cs">
+      <DependentUpon>cFrmCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormChangeOperID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormChangeOperID.Designer.cs">
+      <DependentUpon>FormChangeOperID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormChart.Designer.cs">
+      <DependentUpon>FormChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormDetailChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormDetailChart.Designer.cs">
+      <DependentUpon>FormDetailChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormUpdateInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormUpdateInfo.Designer.cs">
+      <DependentUpon>FormUpdateInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Include\Vision\MultiCam.cs" />
+    <Compile Include="Common\Interface\AsyncSocket.cs" />
+    <Compile Include="Common\Interface\Comunication\cCmdData.cs" />
+    <Compile Include="Common\Interface\Comunication\cComPortBase.cs" />
+    <Compile Include="Common\Interface\Comunication\cComunicationAligner.cs" />
+    <Compile Include="Common\Interface\Comunication\cComunicationLight.cs" />
+    <Compile Include="Common\Interface\Comunication\cTcpClientBase.cs" />
+    <Compile Include="Common\Interface\Comunication\cTcpServerBase.cs" />
+    <Compile Include="Common\Interface\Comunication\eCommand.cs" />
+    <Compile Include="Common\Interface\SerialUnit.cs" />
+    <Compile Include="Common\Interface\SerialUnit2.cs" />
+    <Compile Include="Common\Interface\SharedMemory.cs" />
+    <Compile Include="Common\System\AxisEziServo.cs" />
+    <Compile Include="Common\System\AxisSimul.cs" />
+    <Compile Include="Common\System\BcrKeyence.cs" />
+    <Compile Include="Common\System\EzLib\LIB_EziMOTIONPlusE.cs" />
+    <Compile Include="Common\System\EzLib\MOTION_DEFINE_PlusE.cs" />
+    <Compile Include="Common\System\IoFastech.cs" />
+    <Compile Include="Common\System\LightUnit.cs" />
+    <Compile Include="Common\System\RfidTCP.cs" />
+    <Compile Include="Common\System\RFID_Ceyon.cs" />
+    <Compile Include="Common\System\SwitchIO.cs" />
+    <Compile Include="Common\System\TempAutonics.cs" />
+    <Compile Include="Common\System\TorqueDKM.cs" />
+    <Compile Include="Common\System\BcrOpticon.cs" />
+    <Compile Include="Common\Base\BinColors.cs" />
+    <Compile Include="Common\Vision\Algorithm\Algorithm.cs" />
+    <Compile Include="Common\Vision\Algorithm\Algorithm.Drawing.cs" />
+    <Compile Include="Common\Vision\Algorithm\Algorithm.Fuction.cs" />
+    <Compile Include="Common\Vision\Algorithm\BitmapHelper.cs" />
+    <Compile Include="Common\Vision\Algorithm\SystemTools.cs" />
+    <Compile Include="Common\Vision\Camera\CamItem.cs" />
+    <Compile Include="Common\Vision\Camera\CustomCam.cs" />
+    <Compile Include="Common\Vision\Light\LightSource.cs" />
+    <Compile Include="Common\Vision\Light\LightSource.Eps.cs" />
+    <Compile Include="Common\Vision\Light\LightSource.Lfn.cs" />
+    <Compile Include="Common\Vision\Light\LightSource.Lpd.cs" />
+    <Compile Include="Common\Vision\Light\LightSource.Lvs.cs" />
+    <Compile Include="Common\Vision\Form\FrmCamDx.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\Vision\Form\FrmCamDx.Designer.cs">
+      <DependentUpon>FrmCamDx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormCtrlMC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormCtrlMC.designer.cs">
+      <DependentUpon>FormCtrlMC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormCtrlMotr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormCtrlMotr.Designer.cs">
+      <DependentUpon>FormCtrlMotr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormBinColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormBinColor.Designer.cs">
+      <DependentUpon>FormBinColor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormInput.Designer.cs">
+      <DependentUpon>FormInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormLot2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormLot2.designer.cs">
+      <DependentUpon>FormLot2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMIOSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMIOSetting.Designer.cs">
+      <DependentUpon>FormMIOSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSVision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSVision.Designer.cs">
+      <DependentUpon>FormSVision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMControl.Designer.cs">
+      <DependentUpon>FormMControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMManual.Designer.cs">
+      <DependentUpon>FormMManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMMotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMMotion.Designer.cs">
+      <DependentUpon>FormMMotion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMMotor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMMotor.Designer.cs">
+      <DependentUpon>FormMMotor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMIO.Designer.cs">
+      <DependentUpon>FormMIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMDb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMDb.Designer.cs">
+      <DependentUpon>FormMDb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormOper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormOper.Designer.cs">
+      <DependentUpon>FormOper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormPosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormPosition.Designer.cs">
+      <DependentUpon>FormPosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSMotor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSMotor.Designer.cs">
+      <DependentUpon>FormSMotor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSManual.Designer.cs">
+      <DependentUpon>FormSManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMSetting.Designer.cs">
+      <DependentUpon>FormMSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMAdmin.Designer.cs">
+      <DependentUpon>FormMAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMProject.Designer.cs">
+      <DependentUpon>FormMProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormLot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormLot.designer.cs">
+      <DependentUpon>FormLot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSTool.designer.cs">
+      <DependentUpon>FormSTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrjBase\ActuatorId.cs" />
+    <Compile Include="PrjBase\ErrorId.cs" />
+    <Compile Include="PrjBase\IOMap.cs" />
+    <Compile Include="PrjBase\MotorId.cs" />
+    <Compile Include="PrjSeq\01_SeqWaferAlignTable.cs" />
+    <Compile Include="PrjUnit\Chip.cs" />
+    <Compile Include="PrjUnit\ComZeus.cs" />
+    <Compile Include="PrjUnit\ErrProc.cs" />
+    <Compile Include="PrjUnit\FileManger.cs" />
+    <Compile Include="PrjBase\LogUnit.cs" />
+    <Compile Include="PrjUnit\LotUnit.cs" />
+    <Compile Include="PrjUnit\ManProc.cs" />
+    <Compile Include="PrjUnit\SpcManger.cs" />
+    <Compile Include="Common\Base\EdgeUnit.cs" />
+    <Compile Include="Common\Base\IniUnit.cs" />
+    <Compile Include="Common\Base\OnDelay.cs" />
+    <Compile Include="PrjBase\PosnUnit.cs" />
+    <Compile Include="Common\Base\QueueUnit.cs" />
+    <Compile Include="PrjBase\ThreadUnit.cs" />
+    <Compile Include="Define.cs" />
+    <Compile Include="Forms\FormAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAlarm.Designer.cs">
+      <DependentUpon>FormAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormInputPos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormInputPos.Designer.cs">
+      <DependentUpon>FormInputPos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormMessage.Designer.cs">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormProgress.Designer.cs">
+      <DependentUpon>FormProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormSetInOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormSetInOut.Designer.cs">
+      <DependentUpon>FormSetInOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Forms\FormSetMotr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Forms\FormSetMotr.Designer.cs">
+      <DependentUpon>FormSetMotr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\System\SysMotor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PrjUnit\VisnUnit.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PrjSeq\00_Sequence.cs" />
+    <Compile Include="Common\System\AxisUnit.cs" />
+    <Compile Include="Common\System\LampBuzz.cs" />
+    <Compile Include="Common\System\SysActuator.cs" />
+    <Compile Include="Common\System\SysIO.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Common\Forms\cFrmCalendar.resx">
+      <DependentUpon>cFrmCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormChangeOperID.resx">
+      <DependentUpon>FormChangeOperID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormChart.resx">
+      <DependentUpon>FormChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormDetailChart.resx">
+      <DependentUpon>FormDetailChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormUpdateInfo.resx">
+      <DependentUpon>FormUpdateInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Vision\Form\FrmCamDx.resx">
+      <DependentUpon>FrmCamDx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormCtrlMC.resx">
+      <DependentUpon>FormCtrlMC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormBinColor.resx">
+      <DependentUpon>FormBinColor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormCtrlMotr.resx">
+      <DependentUpon>FormCtrlMotr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormInput.resx">
+      <DependentUpon>FormInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormLot2.resx">
+      <DependentUpon>FormLot2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMControl.resx">
+      <DependentUpon>FormMControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMIOSetting.resx">
+      <DependentUpon>FormMIOSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMManual.resx">
+      <DependentUpon>FormMManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMMotion.resx">
+      <DependentUpon>FormMMotion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMMotor.resx">
+      <DependentUpon>FormMMotor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMIO.resx">
+      <DependentUpon>FormMIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMDb.resx">
+      <DependentUpon>FormMDb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormOper.resx">
+      <DependentUpon>FormOper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormPosition.resx">
+      <DependentUpon>FormPosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSMotor.resx">
+      <DependentUpon>FormSMotor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSManual.resx">
+      <DependentUpon>FormSManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMSetting.resx">
+      <DependentUpon>FormMSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMAdmin.resx">
+      <DependentUpon>FormMAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMProject.resx">
+      <DependentUpon>FormMProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAlarm.resx">
+      <DependentUpon>FormAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormInputPos.resx">
+      <DependentUpon>FormInputPos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormLot.resx">
+      <DependentUpon>FormLot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormMessage.resx">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormProgress.resx">
+      <DependentUpon>FormProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormSetInOut.resx">
+      <DependentUpon>FormSetInOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Forms\FormSetMotr.resx">
+      <DependentUpon>FormSetMotr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSVision.resx">
+      <DependentUpon>FormSVision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSTool.resx">
+      <DependentUpon>FormSTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="BIN\SYSTEM\Actuator.INI" />
+    <None Include="BIN\SYSTEM\AI_Address.INI" />
+    <None Include="BIN\SYSTEM\AO_Address.INI" />
+    <None Include="BIN\SYSTEM\INPUT.INI" />
+    <None Include="BIN\SYSTEM\MasterMotor.INI" />
+    <None Include="BIN\SYSTEM\OUTPUT.INI" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DSEG7Classic-Bold.ttf" />
+    <None Include="Resources\imgNO.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BIN\ERROR\Error.txt" />
+    <Content Include="DADA.ico" />
+    <Content Include="Resources\BackgroundImage.png" />
+    <Content Include="Resources\BackgroundImage2.png" />
+    <Content Include="Resources\DADA_S-removebg-preview.png" />
+    <Content Include="Resources\DADA_S.jpg" />
+    <None Include="Resources\lbVacuum.Image.png" />
+    <None Include="Resources\lbHome.Image.png" />
+    <None Include="Resources\lbAlign.Image.png" />
+    <None Include="Resources\lbReset.Image.png" />
+    <Content Include="Resources\_Gray.png" />
+    <Content Include="Resources\_Gray10.png" />
+    <Content Include="Resources\_Gray15.png" />
+    <Content Include="Resources\_Gray_20.png" />
+    <Content Include="Resources\_Gray_25.png" />
+    <Content Include="Resources\_Green.png" />
+    <Content Include="Resources\_Green15.png" />
+    <Content Include="Resources\_Green_20.png" />
+    <Content Include="Resources\_Green_25.png" />
+    <Content Include="Resources\_Red.png" />
+    <Content Include="Resources\_Red15.png" />
+    <Content Include="Resources\_Red_20.png" />
+    <Content Include="Resources\_Red_25.png" />
+    <None Include="Resources\DADA_Logo.jpeg" />
+    <Content Include="Resources\boxClose.png" />
+    <Content Include="Resources\boxClose_s.png" />
+    <Content Include="Resources\boxopen.png" />
+    <Content Include="Resources\boxopen_s.png" />
+    <Content Include="Resources\DADA.JPG" />
+    <None Include="Resources\free-icon-exchange-1373452.png" />
+    <None Include="Resources\free-icon-exchange-13734521.png" />
+    <None Include="Resources\free-icon-exchange-13734522.png" />
+    <None Include="Resources\free-icon-exchange-4012933.png" />
+    <Content Include="Resources\Logo.ico" />
+    <None Include="Resources\btnSelect.bmp" />
+    <None Include="Resources\btnArrow.Image.png" />
+    <Content Include="Resources\down-arrow.png" />
+    <Content Include="Resources\left-arrow.png" />
+    <Content Include="Resources\left-circular-arrow.png" />
+    <None Include="Resources\left-circular-arrow1.png" />
+    <Content Include="Resources\login.png" />
+    <None Include="Resources\panel.JPG" />
+    <None Include="Resources\panel2.JPG" />
+    <None Include="Resources\panel3.JPG" />
+    <Content Include="Resources\play-button.png" />
+    <None Include="Resources\play-button_2.png" />
+    <Content Include="Resources\refresh.png" />
+    <None Include="Resources\refresh1.png" />
+    <Content Include="Resources\right-arrow.png" />
+    <Content Include="Resources\semicircular-arrow.png" />
+    <Content Include="Resources\stop.png" />
+    <None Include="Resources\stop1.png" />
+    <None Include="Resources\Temp.png" />
+    <Content Include="Resources\up-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Drv.ImageProcess\Drv.ImageProcess.csproj">
+      <Project>{dce024a0-64f8-4c83-b471-c4fe40208a56}</Project>
+      <Name>Drv.ImageProcess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>이 프로젝트는 이 컴퓨터에 없는 NuGet 패키지를 참조합니다. 해당 패키지를 다운로드하려면 NuGet 패키지 복원을 사용하십시오. 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=322105를 참조하십시오. 누락된 파일은 {0}입니다.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\SQLite.3.13.0\build\net45\SQLite.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\SQLite.3.13.0\build\net45\SQLite.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

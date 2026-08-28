@@ -1,0 +1,653 @@
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\x86\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\x64\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\EFEM.exe.config
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\AdvancedMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\ApiBufferApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\BigMansStuff.LocusEffects.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\CircularProgressBar.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\CoreMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\EcApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\EcFilter_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\FontAwesome.Sharp.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\IOApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\MathNet.Numerics.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\WinFormAnimation.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\WMX3Api_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\YJ_CLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\CircularProgressBar.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\MathNet.Numerics.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\BIN\YJ_CLib.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\Calendar.cFrmCalendar.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmDetailChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmCam.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.VisionView.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmBinColor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmInput.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmLot.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMControl.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMMotion.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMIO.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMDb.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FormPosition.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmSMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmSManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMSetting.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMAdmin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMProject.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmAlarm.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmInputPos.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmLot2.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMessage.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmLogin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMain.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmMOper.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmProgress.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmSetInOut.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmSetMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.FrmSTool.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine.Properties.Resources.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\Works\eMachine\BIN\x86\sqlite3.dll
+D:\Works\eMachine\BIN\x64\sqlite3.dll
+D:\Works\eMachine\BIN\EFEM.exe.config
+D:\Works\eMachine\BIN\EFEM.exe
+D:\Works\eMachine\BIN\EFEM.pdb
+D:\Works\eMachine\BIN\AdvancedMotionApi_CLRLib.dll
+D:\Works\eMachine\BIN\ApiBufferApi_CLRLib.dll
+D:\Works\eMachine\BIN\BigMansStuff.LocusEffects.dll
+D:\Works\eMachine\BIN\CircularProgressBar.dll
+D:\Works\eMachine\BIN\CoreMotionApi_CLRLib.dll
+D:\Works\eMachine\BIN\EcApi_CLRLib.dll
+D:\Works\eMachine\BIN\EcFilter_CLRLib.dll
+D:\Works\eMachine\BIN\FontAwesome.Sharp.dll
+D:\Works\eMachine\BIN\IOApi_CLRLib.dll
+D:\Works\eMachine\BIN\MathNet.Numerics.dll
+D:\Works\eMachine\BIN\WinFormAnimation.dll
+D:\Works\eMachine\BIN\WMX3Api_CLRLib.dll
+D:\Works\eMachine\BIN\YJ_CLib.dll
+D:\Works\eMachine\BIN\CircularProgressBar.xml
+D:\Works\eMachine\BIN\MathNet.Numerics.xml
+D:\Works\eMachine\BIN\YJ_CLib.pdb
+D:\Works\eMachine\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\Works\eMachine\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\Works\eMachine\obj\Debug\Calendar.cFrmCalendar.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmChart.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmDetailChart.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmCam.resources
+D:\Works\eMachine\obj\Debug\eMachine.VisionView.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmBinColor.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmInput.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmLot.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMControl.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMManual.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMMotion.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMMotor.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMIO.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMDb.resources
+D:\Works\eMachine\obj\Debug\eMachine.FormPosition.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmSMotor.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmSManual.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMSetting.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMAdmin.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMProject.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmAlarm.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmInputPos.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmLot2.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMessage.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmLogin.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMain.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmMOper.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmProgress.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmSetInOut.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmSetMotr.resources
+D:\Works\eMachine\obj\Debug\eMachine.FrmSTool.resources
+D:\Works\eMachine\obj\Debug\eMachine.Properties.Resources.resources
+D:\Works\eMachine\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\Works\eMachine\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\Works\eMachine\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\Works\eMachine\obj\Debug\EFEM.exe
+D:\Works\eMachine\obj\Debug\EFEM.pdb
+D:\Works\eMachine\obj\Debug\Interop.XCYREM2Lib.dll
+D:\Works\eMachine\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\x86\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\x64\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\EFEM.exe.config
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\AdvancedMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\ApiBufferApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\BigMansStuff.LocusEffects.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\CircularProgressBar.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\CoreMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\EcApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\EcFilter_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\FontAwesome.Sharp.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\IOApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\MathNet.Numerics.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\WinFormAnimation.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\WMX3Api_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\YJ_CLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\CircularProgressBar.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\MathNet.Numerics.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\BIN\YJ_CLib.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\Calendar.cFrmCalendar.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmDetailChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmCam.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.VisionView.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmBinColor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmInput.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmLot.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMControl.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMMotion.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMIO.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMDb.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FormPosition.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmSMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmSManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMSetting.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMAdmin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMProject.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmAlarm.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmInputPos.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmLot2.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMessage.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmLogin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMain.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmMOper.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmProgress.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmSetInOut.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmSetMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.FrmSTool.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine.Properties.Resources.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_13H\obj\Debug\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\Calendar.cFrmCalendar.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmDetailChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmCam.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.VisionView.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmBinColor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmInput.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmLot.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMControl.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMMotion.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMIO.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMDb.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FormPosition.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmSMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmSManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMSetting.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMAdmin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMProject.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmAlarm.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmInputPos.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmLot2.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMessage.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmLogin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMain.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmMOper.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmProgress.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmSetInOut.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmSetMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.FrmSTool.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine.Properties.Resources.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\x86\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\x64\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\EFEM.exe.config
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\AdvancedMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\ApiBufferApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\BigMansStuff.LocusEffects.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\CircularProgressBar.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\CoreMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\EcApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\EcFilter_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\FontAwesome.Sharp.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\IOApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\MathNet.Numerics.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\WinFormAnimation.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\WMX3Api_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\YJ_CLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\CircularProgressBar.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\MathNet.Numerics.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\BIN\YJ_CLib.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221022_16H\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\x86\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\x64\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\EFEM.exe.config
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\AdvancedMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\ApiBufferApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\BigMansStuff.LocusEffects.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\CircularProgressBar.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\CoreMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\EcApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\EcFilter_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\FontAwesome.Sharp.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\IOApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\MathNet.Numerics.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\WinFormAnimation.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\WMX3Api_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\YJ_CLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\CircularProgressBar.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\MathNet.Numerics.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\BIN\YJ_CLib.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\Calendar.cFrmCalendar.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmDetailChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmCam.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.VisionView.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmBinColor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmInput.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmLot.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMControl.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMMotion.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMIO.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMDb.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FormPosition.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmSMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmSManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMSetting.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMAdmin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMProject.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmAlarm.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmInputPos.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmLot2.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMessage.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmLogin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMain.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmMOper.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmProgress.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmSetInOut.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmSetMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.FrmSTool.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine.Properties.Resources.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221023_15H\obj\Debug\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\x86\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\x64\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\EFEM.exe.config
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\AdvancedMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\ApiBufferApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\BigMansStuff.LocusEffects.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\CircularProgressBar.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\CoreMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\EcApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\EcFilter_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\FontAwesome.Sharp.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\IOApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\MathNet.Numerics.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\WinFormAnimation.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\WMX3Api_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\YJ_CLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\CircularProgressBar.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\MathNet.Numerics.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\BIN\YJ_CLib.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\Calendar.cFrmCalendar.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmDetailChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmCam.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.VisionView.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmBinColor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmInput.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmLot.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMControl.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMMotion.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMIO.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMDb.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FormPosition.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmSMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmSManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMSetting.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMAdmin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMProject.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmAlarm.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmInputPos.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmLot2.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMessage.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmLogin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMain.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmMOper.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmProgress.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmSetInOut.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmSetMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.FrmSTool.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine.Properties.Resources.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_11H\obj\Debug\EFEM.pdb
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\Works\eMachine_K221024_14H\obj\Debug\Interop.XCYREM2Lib.dll
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+D:\Works\eMachine_K221024_14H\obj\Debug\Calendar.cFrmCalendar.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmChart.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmDetailChart.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmCam.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.VisionView.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmBinColor.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmInput.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmLot.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMControl.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMManual.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMMotion.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMMotor.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMIO.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMDb.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FormPosition.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmSMotor.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmSManual.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMSetting.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMAdmin.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMProject.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmAlarm.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmInputPos.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmLot2.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMessage.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmLogin.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMain.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmMOper.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmProgress.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmSetInOut.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmSetMotr.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.FrmSTool.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine.Properties.Resources.resources
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\Works\eMachine_K221024_14H\obj\Debug\EFEM.exe
+D:\Works\eMachine_K221024_14H\obj\Debug\EFEM.pdb
+D:\Works\eMachine_K221024_14H\BIN\x86\sqlite3.dll
+D:\Works\eMachine_K221024_14H\BIN\x64\sqlite3.dll
+D:\Works\eMachine_K221024_14H\BIN\EFEM.exe.config
+D:\Works\eMachine_K221024_14H\BIN\EFEM.exe
+D:\Works\eMachine_K221024_14H\BIN\EFEM.pdb
+D:\Works\eMachine_K221024_14H\BIN\AdvancedMotionApi_CLRLib.dll
+D:\Works\eMachine_K221024_14H\BIN\AMS.Profile.dll
+D:\Works\eMachine_K221024_14H\BIN\ApiBufferApi_CLRLib.dll
+D:\Works\eMachine_K221024_14H\BIN\BigMansStuff.LocusEffects.dll
+D:\Works\eMachine_K221024_14H\BIN\CircularProgressBar.dll
+D:\Works\eMachine_K221024_14H\BIN\CoreMotionApi_CLRLib.dll
+D:\Works\eMachine_K221024_14H\BIN\EcApi_CLRLib.dll
+D:\Works\eMachine_K221024_14H\BIN\EcFilter_CLRLib.dll
+D:\Works\eMachine_K221024_14H\BIN\FontAwesome.Sharp.dll
+D:\Works\eMachine_K221024_14H\BIN\IOApi_CLRLib.dll
+D:\Works\eMachine_K221024_14H\BIN\MathNet.Numerics.dll
+D:\Works\eMachine_K221024_14H\BIN\WinFormAnimation.dll
+D:\Works\eMachine_K221024_14H\BIN\WMX3Api_CLRLib.dll
+D:\Works\eMachine_K221024_14H\BIN\YJ_CLib.dll
+D:\Works\eMachine_K221024_14H\BIN\CircularProgressBar.xml
+D:\Works\eMachine_K221024_14H\BIN\MathNet.Numerics.xml
+D:\Works\eMachine_K221024_14H\BIN\YJ_CLib.pdb
+D:\Works\eMachine_K221024_14H\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\x86\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\x64\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\EFEM.exe.config
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\AdvancedMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\ApiBufferApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\BigMansStuff.LocusEffects.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\CircularProgressBar.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\CoreMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\EcApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\EcFilter_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\FontAwesome.Sharp.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\IOApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\MathNet.Numerics.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\WinFormAnimation.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\WMX3Api_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\YJ_CLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\CircularProgressBar.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\MathNet.Numerics.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\BIN\YJ_CLib.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\Calendar.cFrmCalendar.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmDetailChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmCam.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.VisionView.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmBinColor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmInput.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmLot.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMControl.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMMotion.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMIO.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMDb.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FormPosition.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmSMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmSManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMSetting.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMAdmin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMProject.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmAlarm.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmInputPos.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmLot2.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMessage.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmLogin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMain.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmMOper.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmProgress.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmSetInOut.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmSetMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.FrmSTool.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine.Properties.Resources.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221024_21H\obj\Debug\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\x86\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\x64\sqlite3.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\EFEM.exe.config
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\AdvancedMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\ApiBufferApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\BigMansStuff.LocusEffects.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\CircularProgressBar.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\CoreMotionApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\EcApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\EcFilter_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\FontAwesome.Sharp.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\IOApi_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\MathNet.Numerics.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\WinFormAnimation.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\WMX3Api_CLRLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\YJ_CLib.dll
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\CircularProgressBar.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\MathNet.Numerics.xml
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\BIN\YJ_CLib.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\Calendar.cFrmCalendar.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmChangeOperID.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmDetailChart.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmUpdateInfo.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmCam.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.VisionView.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmCtrlMC.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmBinColor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmCtrlMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmInput.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmLot.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMControl.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMMotion.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMIO.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMDb.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FormPosition.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmSMotor.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmSManual.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMSetting.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMAdmin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMProject.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmAlarm.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmInputPos.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmLot2.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMessage.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmLogin.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMain.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmMOper.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmProgress.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmSetInOut.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmSetMotr.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.FrmSTool.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine.Properties.Resources.resources
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\EFEM.exe
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine_K221026_12H\obj\Debug\EFEM.pdb
+D:\01_Project\08_EFEM_NEPES\02_ Source\eMachine\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\x86\sqlite3.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\x64\sqlite3.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\EFEM.exe.config
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\EFEM.exe
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\EFEM.pdb
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\ApiBufferApi_CLRLib.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\BigMansStuff.LocusEffects.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\CircularProgressBar.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\CoreMotionApi_CLRLib.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\EcApi_CLRLib.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\EcFilter_CLRLib.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\FontAwesome.Sharp.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\IOApi_CLRLib.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\MathNet.Numerics.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\WinFormAnimation.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\WMX3Api_CLRLib.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\YJ_CLib.dll
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\CircularProgressBar.xml
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\MathNet.Numerics.xml
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\BIN\YJ_CLib.pdb
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine_EFEM.csproj.AssemblyReference.cache
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine_EFEM.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine_EFEM.csproj.ResolveComReference.cache
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\Calendar.cFrmCalendar.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmChangeOperID.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmChart.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmDetailChart.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmUpdateInfo.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmCam.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.VisionView.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmCtrlMC.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmBinColor.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmCtrlMotr.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmInput.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmLot.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMControl.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMManual.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMMotion.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMMotor.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMIO.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMDb.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FormPosition.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmSMotor.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmSManual.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMSetting.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMAdmin.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMProject.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmAlarm.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmInputPos.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmLot2.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMessage.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmLogin.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMain.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmMOper.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmProgress.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmSetInOut.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmSetMotr.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.FrmSTool.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine.Properties.Resources.resources
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine_EFEM.csproj.GenerateResource.cache
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine_EFEM.csproj.CoreCompileInputs.cache
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\eMachine_EFEM.csproj.CopyComplete
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\EFEM.exe
+E:\01_Project\08_EFEM_NEPES\02_ PGM\eMachine\obj\Debug\EFEM.pdb

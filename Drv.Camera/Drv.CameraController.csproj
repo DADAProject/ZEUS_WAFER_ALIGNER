@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF5B1606-FDB4-4D15-8DC0-8F150845FC46}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Drv.CameraController</RootNamespace>
+    <AssemblyName>Drv.CameraController</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x64</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Basler.Pylon">
+      <HintPath>Lib\Basler.Pylon.dll</HintPath>
+    </Reference>
+    <Reference Include="Coaxlink_NetApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=827dda2b95af263a, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Library\Coaxlink_NetApi.dll</HintPath>
+    </Reference>
+    <Reference Include="GenApiDotNet20_v3_2, Version=3.2.0.1, Culture=neutral, PublicKeyToken=702a7d0a1d42e9d9, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\GenApiDotNet20_v3_2.dll</HintPath>
+    </Reference>
+    <Reference Include="Matrox.MatroxImagingLibrary, Version=10.10.614.1, Culture=neutral, PublicKeyToken=5a83d419d44a9d98, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Library\Matrox.MatroxImagingLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="MultiCam_NetApi, Version=1.0.7851.25790, Culture=neutral, PublicKeyToken=827dda2b95af263a, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Library\MultiCam_NetApi.dll</HintPath>
+    </Reference>
+    <Reference Include="PylonC.NET">
+      <HintPath>Lib\PylonC.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="StApiDotNet20_v1_1, Version=1.1.2.0, Culture=neutral, PublicKeyToken=702a7d0a1d42e9d9, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\StApiDotNet20_v1_1.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\..\ProbeStation_eMachine\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CameraController\1. Controllers\2. Evision\2. Basler\cBaslerCamera.cs" />
+    <Compile Include="CameraController\1. Controllers\3. Euresys\1. Link\cEuresysLinkCamera.cs" />
+    <Compile Include="CameraController\1. Controllers\3. Euresys\2. Coax\cEuresysCoaxCamera.cs" />
+    <Compile Include="CameraController\1. Controllers\3. Euresys\cEuresysController.cs" />
+    <Compile Include="CameraController\1. Controllers\4. Matrox\1. Link\cMatroxLinkCamera.cs" />
+    <Compile Include="CameraController\1. Controllers\4. Matrox\cMatroxController.cs" />
+    <Compile Include="CameraController\frmControllerSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CameraController\frmControllerSetting.Designer.cs">
+      <DependentUpon>frmControllerSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CameraController\_DataDefined\cParamData.cs" />
+    <Compile Include="CameraController\1. Controllers\1. TestController\cTestCamera.cs" />
+    <Compile Include="CameraController\1. Controllers\1. TestController\cTestController.cs" />
+    <Compile Include="CameraController\1. Controllers\2. Evision\1. Omron\cOmronCamera.cs" />
+    <Compile Include="CameraController\1. Controllers\2. Evision\cEvisionController.cs" />
+    <Compile Include="CameraController\1. Controllers\cControllerBase.cs" />
+    <Compile Include="CameraController\1. Controllers\IController.cs" />
+    <Compile Include="CameraController\2. Grabber\Camera\cBaseCamera.cs" />
+    <Compile Include="CameraController\2. Grabber\Camera\eDefaultCameraAlarm.cs" />
+    <Compile Include="CameraController\2. Grabber\Camera\ICamera.cs" />
+    <Compile Include="CameraController\2. Grabber\Camera\sCameraStatus.cs" />
+    <Compile Include="CameraController\2. Grabber\cGrabber.cs" />
+    <Compile Include="CameraController\2. Grabber\IGrabber.cs" />
+    <Compile Include="CameraController\cMasterControl.cs" />
+    <Compile Include="CameraController\_DataDefined\cControllerData.cs" />
+    <Compile Include="CameraController\__Defined\eCameraType.cs" />
+    <Compile Include="CameraController\__Defined\EventHandler\CameraGrabHandler.cs" />
+    <Compile Include="CameraController\__Defined\EventHandler\SimulationEventHandler.cs" />
+    <Compile Include="cVersion.cs" />
+    <Compile Include="Defined.Delegate.cs" />
+    <Compile Include="Extension.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CameraController\_DataDefined\cCameraDatas.cs" />
+    <Compile Include="CameraController\__Defined\cCameraControlerException.cs" />
+    <Compile Include="CameraController\__Defined\eControllerType.cs" />
+    <Compile Include="CameraController\__Defined\EventHandler\ExceptionEventHandler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CameraController\frmControllerSetting.resx">
+      <DependentUpon>frmControllerSetting.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Library\Basler.Pylon.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Coaxlink_NetApi.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\GenApiDotNet20_v3_2.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Matrox.MatroxImagingLibrary.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\MultiCam_NetApi.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\Log_MD_VC141_v3_2_Sentech.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\StAIK_MD_VC141_v1_1.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\StApi_C_MD_VC141_v1_1.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\StApi_GUI_MD_VC141_v1_1.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\StApi_IP_MD_VC141_v1_1.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\StApi_TL_MD_VC141_v1_1.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\PylonC.NET.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\StApiDotNet20_v1_1.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CameraController\1. Controllers\4. Matrox\2. Coax\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

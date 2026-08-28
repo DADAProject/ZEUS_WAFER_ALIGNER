@@ -1,0 +1,1051 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|d:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.zeus wafer aligner\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\emachine_260825_18h_r1\\prjunit\\errproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjunit\\errproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\prjseq\\00_sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjseq\\00_sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formoper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formoper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formbincolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formbincolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formctrlmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formctrlmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formctrlmotr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formctrlmotr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formsmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formsmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formsvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formsvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\forminput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\forminput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\prjunit\\comzeus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjunit\\comzeus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\prjbase\\iomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjbase\\iomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\system\\sysio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\system\\sysio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\prjunit\\filemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjunit\\filemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\base\\iniunit2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\base\\iniunit2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\prjunit\\manproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjunit\\manproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formsmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formsmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\prjseq\\01_seqwaferaligntable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjseq\\01_seqwaferaligntable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\system\\axissimul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\system\\axissimul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\prjunit\\visnunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjunit\\visnunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\prjbase\\threadunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:prjbase\\threadunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\base\\ondelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\base\\ondelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\system\\sysmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\system\\sysmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\system\\torquedkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\system\\torquedkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\interface\\comunication\\ccomunicationaligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\interface\\comunication\\ccomunicationaligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\interface\\comunication\\ctcpserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\interface\\comunication\\ctcpserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\interface\\comunication\\ctcpclientbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\interface\\comunication\\ctcpclientbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\system\\sysactuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\system\\sysactuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE024A0-64F8-4C83-B471-C4FE40208A56}|Drv.ImageProcess\\Drv.ImageProcess.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\drv.imageprocess\\imagethread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE024A0-64F8-4C83-B471-C4FE40208A56}|Drv.ImageProcess\\Drv.ImageProcess.csproj|solutionrelative:drv.imageprocess\\imagethread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\vision\\light\\lightsource.lfn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\vision\\light\\lightsource.lfn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\vision\\light\\lightsource.eps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\vision\\light\\lightsource.eps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\vision\\form\\frmcamdx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\vision\\form\\frmcamdx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\vision\\form\\frmcamdx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\vision\\form\\frmcamdx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formlot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formlot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmiosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmiosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\vision\\camera\\customcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\vision\\camera\\customcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\forms\\formmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\forms\\formmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\forms\\cfrmcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\forms\\cfrmcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\forms\\formchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\forms\\formchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formmmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formmmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formsmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formsmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\forms\\formlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:forms\\formlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DADA\\AppData\\Local\\Temp\\.vsdbgsrc\\a7fb0326ab9d371a7f43b964b94efc6bac1b86791243d2e32266b6e886114467\\Socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\common\\system\\switchio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:common\\system\\switchio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5524E459-2618-4968-A435-F1E0EC16D220}|eMachine_Aligner.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5B1606-FDB4-4D15-8DC0-8F150845FC46}|Drv.Camera\\Drv.CameraController.csproj|D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\drv.camera\\cameracontroller\\1. controllers\\2. evision\\1. omron\\comroncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5B1606-FDB4-4D15-8DC0-8F150845FC46}|Drv.Camera\\Drv.CameraController.csproj|solutionrelative:drv.camera\\cameracontroller\\1. controllers\\2. evision\\1. omron\\comroncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2043,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormLot.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormLot.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormLot.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormLot.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormLot.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:06.352Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormOper.Designer.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Forms\\FormOper.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormOper.Designer.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Forms\\FormOper.Designer.cs",
+              "RelativeToolTip": "Forms\\FormOper.Designer.cs",
+              "ViewState": "AgIAAJsDAAAAAAAAAAAtwKoDAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:11:42.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormOper.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormOper.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormOper.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormOper.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormOper.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:08:53.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormOper.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormOper.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormOper.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormOper.cs",
+              "RelativeToolTip": "FORMS\\FormOper.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAtwNQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T00:23:51.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMProject.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMProject.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMProject.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMProject.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormMProject.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:16.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMSetting.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMSetting.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMSetting.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMSetting.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "FORMS\\FormMSetting.cs [\uB514\uC790\uC778]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T00:13:52.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMSetting.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMSetting.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMSetting.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMSetting.cs*",
+              "RelativeToolTip": "FORMS\\FormMSetting.cs*",
+              "ViewState": "AgIAAJYBAAAAAAAAAAApwKcBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T00:14:18.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrProc.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\ErrProc.cs",
+              "RelativeDocumentMoniker": "PrjUnit\\ErrProc.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\ErrProc.cs",
+              "RelativeToolTip": "PrjUnit\\ErrProc.cs",
+              "ViewState": "AgIAABQCAAAAAAAAAAD4vyECAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T00:22:03.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "00_Sequence.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjSeq\\00_Sequence.cs",
+              "RelativeDocumentMoniker": "PrjSeq\\00_Sequence.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjSeq\\00_Sequence.cs",
+              "RelativeToolTip": "PrjSeq\\00_Sequence.cs",
+              "ViewState": "AgIAAHgFAAAAAAAAAAD4v4UFAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:09:48.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormBinColor.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormBinColor.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormBinColor.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormBinColor.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormBinColor.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:56.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAlarm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormAlarm.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormAlarm.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormAlarm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormAlarm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCtrlMC.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormCtrlMC.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormCtrlMC.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormCtrlMC.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormCtrlMC.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:32.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCtrlMotr.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormCtrlMotr.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormCtrlMotr.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormCtrlMotr.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormCtrlMotr.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:33.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Forms\\FormLogin.cs",
+              "RelativeDocumentMoniker": "COMMON\\Forms\\FormLogin.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Forms\\FormLogin.cs",
+              "RelativeToolTip": "COMMON\\Forms\\FormLogin.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAA2wF4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:24:48.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormProgress.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormProgress.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormProgress.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormProgress.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormProgress.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T00:13:49.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormSMotor.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSMotor.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormSMotor.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSMotor.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormSMotor.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:05:03.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormSTool.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSTool.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormSTool.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSTool.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormSTool.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:05:07.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormSVision.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSVision.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormSVision.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSVision.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormSVision.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T00:04:58.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormInput.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormInput.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormInput.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormInput.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormInput.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:34.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwCEAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T04:19:51.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormProgress.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormProgress.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormProgress.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormProgress.cs",
+              "RelativeToolTip": "FORMS\\FormProgress.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwF4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T00:06:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ComZeus.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\ComZeus.cs",
+              "RelativeDocumentMoniker": "PrjUnit\\ComZeus.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\ComZeus.cs",
+              "RelativeToolTip": "PrjUnit\\ComZeus.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAlwJwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T00:06:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Define.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Define.cs",
+              "RelativeDocumentMoniker": "Define.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Define.cs",
+              "RelativeToolTip": "Define.cs",
+              "ViewState": "AgIAAB0GAAAAAAAAAAAnwC8GAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T02:02:01.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMain.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMain.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMain.cs",
+              "RelativeToolTip": "FORMS\\FormMain.cs",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAMwPcBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:05:29.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOMap.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjBase\\IOMap.cs",
+              "RelativeDocumentMoniker": "PrjBase\\IOMap.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjBase\\IOMap.cs",
+              "RelativeToolTip": "PrjBase\\IOMap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T00:29:13.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileManger.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\FileManger.cs",
+              "RelativeDocumentMoniker": "PrjUnit\\FileManger.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\FileManger.cs",
+              "RelativeToolTip": "PrjUnit\\FileManger.cs",
+              "ViewState": "AgIAAJ0CAAAAAAAAAAAqwKwCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T23:58:48.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SysIO.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\SysIO.cs",
+              "RelativeDocumentMoniker": "COMMON\\System\\SysIO.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\SysIO.cs",
+              "RelativeToolTip": "COMMON\\System\\SysIO.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAhwNAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T04:19:56.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormMAdmin.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMAdmin.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMAdmin.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMAdmin.cs",
+              "RelativeToolTip": "FORMS\\FormMAdmin.cs",
+              "ViewState": "AgIAAGUCAAAAAAAAAAAawG0CAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:52:58.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormMProject.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMProject.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMProject.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMProject.cs",
+              "RelativeToolTip": "FORMS\\FormMProject.cs",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAWwKABAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:59:07.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IniUnit2.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Base\\IniUnit2.cs",
+              "RelativeDocumentMoniker": "COMMON\\Base\\IniUnit2.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Base\\IniUnit2.cs",
+              "RelativeToolTip": "COMMON\\Base\\IniUnit2.cs",
+              "ViewState": "AgIAAEQDAAAAAAAAAAASwE0DAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:34:41.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManProc.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\ManProc.cs",
+              "RelativeDocumentMoniker": "PrjUnit\\ManProc.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\ManProc.cs",
+              "RelativeToolTip": "PrjUnit\\ManProc.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAtwHMBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T08:30:57.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormMAdmin.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMAdmin.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMAdmin.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMAdmin.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormMAdmin.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T06:10:15.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormSManual.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSManual.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormSManual.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSManual.cs",
+              "RelativeToolTip": "FORMS\\FormSManual.cs",
+              "ViewState": "AgIAABwCAAAAAAAAAAAjwCsCAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:11:12.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "01_SeqWaferAlignTable.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjSeq\\01_SeqWaferAlignTable.cs",
+              "RelativeDocumentMoniker": "PrjSeq\\01_SeqWaferAlignTable.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjSeq\\01_SeqWaferAlignTable.cs",
+              "RelativeToolTip": "PrjSeq\\01_SeqWaferAlignTable.cs",
+              "ViewState": "AgIAALABAAAAAAAAAAAMwL0BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T03:56:49.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AxisSimul.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\AxisSimul.cs",
+              "RelativeDocumentMoniker": "COMMON\\System\\AxisSimul.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\AxisSimul.cs",
+              "RelativeToolTip": "COMMON\\System\\AxisSimul.cs",
+              "ViewState": "AgIAAEEDAAAAAAAAAAApwFADAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T06:49:50.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VisnUnit.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\VisnUnit.cs",
+              "RelativeDocumentMoniker": "PrjUnit\\VisnUnit.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjUnit\\VisnUnit.cs",
+              "RelativeToolTip": "PrjUnit\\VisnUnit.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAApwP4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T06:54:57.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ThreadUnit.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjBase\\ThreadUnit.cs",
+              "RelativeDocumentMoniker": "PrjBase\\ThreadUnit.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\PrjBase\\ThreadUnit.cs",
+              "RelativeToolTip": "PrjBase\\ThreadUnit.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAMwO0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T00:08:12.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OnDelay.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Base\\OnDelay.cs",
+              "RelativeDocumentMoniker": "COMMON\\Base\\OnDelay.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Base\\OnDelay.cs",
+              "RelativeToolTip": "COMMON\\Base\\OnDelay.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAEwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T06:57:24.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SysMotor.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\SysMotor.cs",
+              "RelativeDocumentMoniker": "COMMON\\System\\SysMotor.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\SysMotor.cs",
+              "RelativeToolTip": "COMMON\\System\\SysMotor.cs",
+              "ViewState": "AgIAADUFAAAAAAAAAAASwDQFAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:04:09.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TorqueDKM.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\TorqueDKM.cs",
+              "RelativeDocumentMoniker": "COMMON\\System\\TorqueDKM.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\TorqueDKM.cs",
+              "RelativeToolTip": "COMMON\\System\\TorqueDKM.cs",
+              "ViewState": "AgIAADsCAAAAAAAAAAApwEoCAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:04:08.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "cComunicationAligner.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Interface\\Comunication\\cComunicationAligner.cs",
+              "RelativeDocumentMoniker": "COMMON\\Interface\\Comunication\\cComunicationAligner.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Interface\\Comunication\\cComunicationAligner.cs",
+              "RelativeToolTip": "COMMON\\Interface\\Comunication\\cComunicationAligner.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:38:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "cTcpServerBase.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Interface\\Comunication\\cTcpServerBase.cs",
+              "RelativeDocumentMoniker": "COMMON\\Interface\\Comunication\\cTcpServerBase.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Interface\\Comunication\\cTcpServerBase.cs",
+              "RelativeToolTip": "COMMON\\Interface\\Comunication\\cTcpServerBase.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T06:01:19.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormMAdmin.Designer.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMAdmin.Designer.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMAdmin.Designer.cs",
+              "RelativeToolTip": "FORMS\\FormMAdmin.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswHUEAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:52:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "cTcpClientBase.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Interface\\Comunication\\cTcpClientBase.cs",
+              "RelativeDocumentMoniker": "COMMON\\Interface\\Comunication\\cTcpClientBase.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Interface\\Comunication\\cTcpClientBase.cs",
+              "RelativeToolTip": "COMMON\\Interface\\Comunication\\cTcpClientBase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:29:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ImageThread.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Drv.ImageProcess\\ImageThread.cs",
+              "RelativeDocumentMoniker": "Drv.ImageProcess\\ImageThread.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Drv.ImageProcess\\ImageThread.cs",
+              "RelativeToolTip": "Drv.ImageProcess\\ImageThread.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T05:16:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormMMotion.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMMotion.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMMotion.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMMotion.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormMMotion.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:04:54.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormMain.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMain.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMain.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMain.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormMain.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:39:07.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SysActuator.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\SysActuator.cs",
+              "RelativeDocumentMoniker": "COMMON\\System\\SysActuator.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\SysActuator.cs",
+              "RelativeToolTip": "COMMON\\System\\SysActuator.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAvwH0BAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T00:09:55.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LightSource.Lfn.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Light\\LightSource.Lfn.cs",
+              "RelativeDocumentMoniker": "COMMON\\Vision\\Light\\LightSource.Lfn.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Light\\LightSource.Lfn.cs",
+              "RelativeToolTip": "COMMON\\Vision\\Light\\LightSource.Lfn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:18:12.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LightSource.Eps.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Light\\LightSource.Eps.cs",
+              "RelativeDocumentMoniker": "COMMON\\Vision\\Light\\LightSource.Eps.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Light\\LightSource.Eps.cs",
+              "RelativeToolTip": "COMMON\\Vision\\Light\\LightSource.Eps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:04:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FrmCamDx.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Form\\FrmCamDx.cs",
+              "RelativeDocumentMoniker": "COMMON\\Vision\\Form\\FrmCamDx.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Form\\FrmCamDx.cs",
+              "RelativeToolTip": "COMMON\\Vision\\Form\\FrmCamDx.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAApwLoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:57:40.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmCamDx.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Form\\FrmCamDx.cs",
+              "RelativeDocumentMoniker": "COMMON\\Vision\\Form\\FrmCamDx.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Form\\FrmCamDx.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "COMMON\\Vision\\Form\\FrmCamDx.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:04:16.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormLot2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormLot2.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormLot2.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260804_18H_R1\\FORMS\\FormLot2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\eMachine_260804_18H_R1\\FORMS\\FormLot2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:34.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CustomCam.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Camera\\CustomCam.cs",
+              "RelativeDocumentMoniker": "COMMON\\Vision\\Camera\\CustomCam.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Vision\\Camera\\CustomCam.cs",
+              "RelativeToolTip": "COMMON\\Vision\\Camera\\CustomCam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:04:12.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormMControl.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMControl.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMControl.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260804_18H_R1\\FORMS\\FormMControl.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\eMachine_260804_18H_R1\\FORMS\\FormMControl.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:37.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormMIOSetting.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMIOSetting.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMIOSetting.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMIOSetting.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormMIOSetting.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T00:13:36.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormMessage.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Forms\\FormMessage.cs",
+              "RelativeDocumentMoniker": "COMMON\\Forms\\FormMessage.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260804_18H_R1\\COMMON\\Forms\\FormMessage.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\eMachine_260804_18H_R1\\COMMON\\Forms\\FormMessage.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:04:04.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "cFrmCalendar.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Forms\\cFrmCalendar.cs",
+              "RelativeDocumentMoniker": "COMMON\\Forms\\cFrmCalendar.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260804_18H_R1\\COMMON\\Forms\\cFrmCalendar.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\eMachine_260804_18H_R1\\COMMON\\Forms\\cFrmCalendar.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:04:04.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormChart.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\Forms\\FormChart.cs",
+              "RelativeDocumentMoniker": "COMMON\\Forms\\FormChart.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260804_18H_R1\\COMMON\\Forms\\FormChart.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\eMachine_260804_18H_R1\\COMMON\\Forms\\FormChart.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:04:03.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormSManual.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSManual.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormSManual.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormSManual.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FORMS\\FormSManual.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:23.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FormMMotor.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormMMotor.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormMMotor.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260804_18H_R1\\FORMS\\FormMMotor.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\eMachine_260804_18H_R1\\FORMS\\FormMMotor.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FormLot.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormLot.cs",
+              "RelativeDocumentMoniker": "FORMS\\FormLot.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\FORMS\\FormLot.cs",
+              "RelativeToolTip": "FORMS\\FormLot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:03:09.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Socket.cs",
+              "DocumentMoniker": "C:\\Users\\DADA\\AppData\\Local\\Temp\\.vsdbgsrc\\a7fb0326ab9d371a7f43b964b94efc6bac1b86791243d2e32266b6e886114467\\Socket.cs",
+              "ToolTip": "C:\\Users\\DADA\\AppData\\Local\\Temp\\.vsdbgsrc\\a7fb0326ab9d371a7f43b964b94efc6bac1b86791243d2e32266b6e886114467\\Socket.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAB4HAAAAAAAAAAAtwCoHAAAXAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T00:33:52.065Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SwitchIO.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\SwitchIO.cs",
+              "RelativeDocumentMoniker": "COMMON\\System\\SwitchIO.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\COMMON\\System\\SwitchIO.cs",
+              "RelativeToolTip": "COMMON\\System\\SwitchIO.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:11:59.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvyMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-04T10:40:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "cOmronCamera.cs",
+              "DocumentMoniker": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Drv.Camera\\CameraController\\1. Controllers\\2. Evision\\1. Omron\\cOmronCamera.cs",
+              "RelativeDocumentMoniker": "Drv.Camera\\CameraController\\1. Controllers\\2. Evision\\1. Omron\\cOmronCamera.cs",
+              "ToolTip": "D:\\00.\uC81C\uC5B4\uD504\uB85C\uADF8\uB7A8\\05.ZEUS WAFER ALIGNER\\01.\uCD5C\uC2E0 \uC18C\uC2A4\\eMachine_260825_18H_R1\\Drv.Camera\\CameraController\\1. Controllers\\2. Evision\\1. Omron\\cOmronCamera.cs",
+              "RelativeToolTip": "Drv.Camera\\CameraController\\1. Controllers\\2. Evision\\1. Omron\\cOmronCamera.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAvwFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:40:39.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

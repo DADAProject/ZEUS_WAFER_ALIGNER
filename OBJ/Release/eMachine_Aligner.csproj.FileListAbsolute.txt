@@ -1,0 +1,1246 @@
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\WMX3Api_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmCam.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.VisionView.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\eMachine\obj\Release\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\FirmwareUpdate_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\GCBase_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\GenApi_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\log4cpp_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\Log_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\MathParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\NodeMapData_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StAIK_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StApi_C_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StApi_GUI_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StApi_IP_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\StApi_TL_MD_VC141_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Omron\XmlParser_MD_VC141_v3_2_Sentech.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\dll\x86\OpenCvSharpExtern.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\dll\x86\opencv_videoio_ffmpeg455.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\dll\x64\OpenCvSharpExtern.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\dll\x64\opencv_videoio_ffmpeg455_64.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Basler.Pylon.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Coaxlink_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\MultiCam_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\PylonC.NET.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Evision\Open_eVision_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Evision\Open_eVision_FNP_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Evision\Open_eVision_NetApi_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Halcon\halcondotnet.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Halcon\halcondotnet.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\OpencvSharp\OpenCvSharpExtern.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.ImageFile.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.ImageProcessing.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.ImageProcessing.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Evision\Open_eVision_NetApi_22_04.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\EntityFramework.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\EntityFramework.SqlServer.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Data.SQLite.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Data.SQLite.EF6.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Data.SQLite.Linq.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.ValueTuple.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\WMX3Api_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Basler.Pylon.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\MultiCam_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Coaxlink_NetApi.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\OpenCvSharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Memory.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Open_eVision_NetApi_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\halcondotnet.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.ImageFile.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.Caliper.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.PMAlign.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Numerics.Vectors.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.ImageProcessing.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.Blob.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.SearchMax.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\OpenCvSharp.Extensions.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\SharpDX.Direct2D1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\SharpDX.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\SharpDX.Mathematics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\SharpDX.DXGI.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Buffers.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.CorePlus.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.Interop.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\stdole.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.CameraController.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.CameraController.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.ImageProcess.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.ImageProcess.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\EntityFramework.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\EntityFramework.SqlServer.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Data.SQLite.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Drawing.Common.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.ValueTuple.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Matrox.MatroxImagingLibrary.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\OpenCvSharp.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Memory.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Open_eVision_NetApi_22_04.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\halcondotnet.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Numerics.Vectors.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.ImageProcessing.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.Blob.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.SearchMax.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\OpenCvSharp.Extensions.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\System.Buffers.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Cognex.VisionPro.CorePlus.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmCamDx.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmSVision.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\obj\Release\WAFERALIGNER.pdb
+C:\Works\eMachine\bin\x86\sqlite3.dll
+C:\Works\eMachine\bin\x64\sqlite3.dll
+C:\Works\eMachine\bin\WAFERALIGNER.exe.config
+C:\Works\eMachine\bin\WAFERALIGNER.exe
+C:\Works\eMachine\bin\WAFERALIGNER.pdb
+C:\Works\eMachine\bin\AdvancedMotionApi_CLRLib.dll
+C:\Works\eMachine\bin\ApiBufferApi_CLRLib.dll
+C:\Works\eMachine\bin\BigMansStuff.LocusEffects.dll
+C:\Works\eMachine\bin\CircularProgressBar.dll
+C:\Works\eMachine\bin\CoreMotionApi_CLRLib.dll
+C:\Works\eMachine\bin\EcApi_CLRLib.dll
+C:\Works\eMachine\bin\EcFilter_CLRLib.dll
+C:\Works\eMachine\bin\EntityFramework.dll
+C:\Works\eMachine\bin\EntityFramework.SqlServer.dll
+C:\Works\eMachine\bin\FontAwesome.Sharp.dll
+C:\Works\eMachine\bin\IOApi_CLRLib.dll
+C:\Works\eMachine\bin\MathNet.Numerics.dll
+C:\Works\eMachine\bin\System.Data.SQLite.dll
+C:\Works\eMachine\bin\System.Data.SQLite.EF6.dll
+C:\Works\eMachine\bin\System.Data.SQLite.Linq.dll
+C:\Works\eMachine\bin\System.ValueTuple.dll
+C:\Works\eMachine\bin\WinFormAnimation.dll
+C:\Works\eMachine\bin\YJ_CLib.dll
+C:\Works\eMachine\bin\StApiDotNet20_v1_1.dll
+C:\Works\eMachine\bin\GenApiDotNet20_v3_2.dll
+C:\Works\eMachine\bin\System.Numerics.Vectors.dll
+C:\Works\eMachine\bin\CircularProgressBar.xml
+C:\Works\eMachine\bin\EntityFramework.xml
+C:\Works\eMachine\bin\EntityFramework.SqlServer.xml
+C:\Works\eMachine\bin\MathNet.Numerics.xml
+C:\Works\eMachine\bin\System.Data.SQLite.xml
+C:\Works\eMachine\bin\System.ValueTuple.xml
+C:\Works\eMachine\bin\YJ_CLib.pdb
+C:\Works\eMachine\obj\Release\Calendar.cFrmCalendar.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmChangeOperID.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmChart.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmDetailChart.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmUpdateInfo.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmCamDx.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmCtrlMC.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmBinColor.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmCtrlMotr.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmInput.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmLot.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMControl.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMManual.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMMotion.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMMotor.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMIO.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMDb.resources
+C:\Works\eMachine\obj\Release\eMachine.FormOper.resources
+C:\Works\eMachine\obj\Release\eMachine.FormPosition.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmSMotor.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmSManual.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMSetting.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMAdmin.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMProject.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmAlarm.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmInputPos.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmLot2.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMessage.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmLogin.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmMain.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmProgress.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmSetInOut.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmSetMotr.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmSVision.resources
+C:\Works\eMachine\obj\Release\eMachine.FrmSTool.resources
+C:\Works\eMachine\obj\Release\eMachine.Properties.Resources.resources
+C:\Works\eMachine\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+C:\Works\eMachine\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+C:\Works\eMachine\obj\Release\WAFERALIGNER.exe
+C:\Works\eMachine\obj\Release\WAFERALIGNER.pdb
+C:\Works\eMachine_K230210_17H\bin\x86\sqlite3.dll
+C:\Works\eMachine_K230210_17H\bin\x64\sqlite3.dll
+C:\Works\eMachine_K230210_17H\bin\WAFERALIGNER.exe.config
+C:\Works\eMachine_K230210_17H\bin\WAFERALIGNER.exe
+C:\Works\eMachine_K230210_17H\bin\WAFERALIGNER.pdb
+C:\Works\eMachine_K230210_17H\bin\AdvancedMotionApi_CLRLib.dll
+C:\Works\eMachine_K230210_17H\bin\AMS.Profile.dll
+C:\Works\eMachine_K230210_17H\bin\ApiBufferApi_CLRLib.dll
+C:\Works\eMachine_K230210_17H\bin\BigMansStuff.LocusEffects.dll
+C:\Works\eMachine_K230210_17H\bin\CircularProgressBar.dll
+C:\Works\eMachine_K230210_17H\bin\CoreMotionApi_CLRLib.dll
+C:\Works\eMachine_K230210_17H\bin\EcApi_CLRLib.dll
+C:\Works\eMachine_K230210_17H\bin\EcFilter_CLRLib.dll
+C:\Works\eMachine_K230210_17H\bin\EntityFramework.dll
+C:\Works\eMachine_K230210_17H\bin\EntityFramework.SqlServer.dll
+C:\Works\eMachine_K230210_17H\bin\FontAwesome.Sharp.dll
+C:\Works\eMachine_K230210_17H\bin\IOApi_CLRLib.dll
+C:\Works\eMachine_K230210_17H\bin\MathNet.Numerics.dll
+C:\Works\eMachine_K230210_17H\bin\System.Data.SQLite.dll
+C:\Works\eMachine_K230210_17H\bin\System.Data.SQLite.EF6.dll
+C:\Works\eMachine_K230210_17H\bin\System.Data.SQLite.Linq.dll
+C:\Works\eMachine_K230210_17H\bin\System.ValueTuple.dll
+C:\Works\eMachine_K230210_17H\bin\WinFormAnimation.dll
+C:\Works\eMachine_K230210_17H\bin\YJ_CLib.dll
+C:\Works\eMachine_K230210_17H\bin\Basler.Pylon.dll
+C:\Works\eMachine_K230210_17H\bin\MultiCam_NetApi.dll
+C:\Works\eMachine_K230210_17H\bin\Coaxlink_NetApi.dll
+C:\Works\eMachine_K230210_17H\bin\Matrox.MatroxImagingLibrary.dll
+C:\Works\eMachine_K230210_17H\bin\StApiDotNet20_v1_1.dll
+C:\Works\eMachine_K230210_17H\bin\GenApiDotNet20_v3_2.dll
+C:\Works\eMachine_K230210_17H\bin\SharpDX.Direct2D1.dll
+C:\Works\eMachine_K230210_17H\bin\SharpDX.dll
+C:\Works\eMachine_K230210_17H\bin\SharpDX.Mathematics.dll
+C:\Works\eMachine_K230210_17H\bin\SharpDX.DXGI.dll
+C:\Works\eMachine_K230210_17H\bin\OpenCvSharp.dll
+C:\Works\eMachine_K230210_17H\bin\System.Memory.dll
+C:\Works\eMachine_K230210_17H\bin\Open_eVision_NetApi_22_04.dll
+C:\Works\eMachine_K230210_17H\bin\halcondotnet.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.Core.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.Caliper.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.PMAlign.dll
+C:\Works\eMachine_K230210_17H\bin\System.Numerics.Vectors.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.ImageProcessing.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.Blob.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.ImageFile.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.SearchMax.dll
+C:\Works\eMachine_K230210_17H\bin\OpenCvSharp.Extensions.dll
+C:\Works\eMachine_K230210_17H\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Works\eMachine_K230210_17H\bin\System.Buffers.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.Interop.Core.dll
+C:\Works\eMachine_K230210_17H\bin\stdole.dll
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.CorePlus.dll
+C:\Works\eMachine_K230210_17H\bin\CircularProgressBar.xml
+C:\Works\eMachine_K230210_17H\bin\EntityFramework.xml
+C:\Works\eMachine_K230210_17H\bin\EntityFramework.SqlServer.xml
+C:\Works\eMachine_K230210_17H\bin\MathNet.Numerics.xml
+C:\Works\eMachine_K230210_17H\bin\System.Data.SQLite.xml
+C:\Works\eMachine_K230210_17H\bin\System.ValueTuple.xml
+C:\Works\eMachine_K230210_17H\bin\YJ_CLib.pdb
+C:\Works\eMachine_K230210_17H\bin\System.Memory.xml
+C:\Works\eMachine_K230210_17H\bin\Open_eVision_NetApi_22_04.dll.config
+C:\Works\eMachine_K230210_17H\bin\halcondotnet.xml
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.xml
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.ImageProcessing.xml
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.Blob.xml
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.SearchMax.xml
+C:\Works\eMachine_K230210_17H\bin\System.Buffers.xml
+C:\Works\eMachine_K230210_17H\bin\Cognex.VisionPro.CorePlus.xml
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+C:\Works\eMachine_K230210_17H\obj\Release\WAFERALIGNER.exe.config
+C:\Works\eMachine_K230210_17H\obj\Release\Calendar.cFrmCalendar.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmChangeOperID.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmChart.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmDetailChart.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmUpdateInfo.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmCamDx.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmCtrlMC.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmBinColor.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmCtrlMotr.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmInput.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmLot.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMControl.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMManual.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMMotion.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMMotor.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMIO.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMDb.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FormOper.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FormPosition.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmSMotor.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmSManual.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMSetting.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMAdmin.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMProject.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmAlarm.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmInputPos.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmLot2.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMessage.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmLogin.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmMain.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmProgress.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmSetInOut.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmSetMotr.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmSVision.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.FrmSTool.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine.Properties.Resources.resources
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+C:\Works\eMachine_K230210_17H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+C:\Works\eMachine_K230210_17H\obj\Release\WAFERALIGNER.exe
+C:\Works\eMachine_K230210_17H\obj\Release\WAFERALIGNER.pdb
+C:\Works\eMachine_K230313_14H\bin\x86\sqlite3.dll
+C:\Works\eMachine_K230313_14H\bin\x64\sqlite3.dll
+C:\Works\eMachine_K230313_14H\bin\WAFERALIGNER.exe.config
+C:\Works\eMachine_K230313_14H\bin\WAFERALIGNER.exe
+C:\Works\eMachine_K230313_14H\bin\WAFERALIGNER.pdb
+C:\Works\eMachine_K230313_14H\bin\AdvancedMotionApi_CLRLib.dll
+C:\Works\eMachine_K230313_14H\bin\ApiBufferApi_CLRLib.dll
+C:\Works\eMachine_K230313_14H\bin\BigMansStuff.LocusEffects.dll
+C:\Works\eMachine_K230313_14H\bin\CircularProgressBar.dll
+C:\Works\eMachine_K230313_14H\bin\CoreMotionApi_CLRLib.dll
+C:\Works\eMachine_K230313_14H\bin\EcApi_CLRLib.dll
+C:\Works\eMachine_K230313_14H\bin\EcFilter_CLRLib.dll
+C:\Works\eMachine_K230313_14H\bin\EntityFramework.dll
+C:\Works\eMachine_K230313_14H\bin\EntityFramework.SqlServer.dll
+C:\Works\eMachine_K230313_14H\bin\FontAwesome.Sharp.dll
+C:\Works\eMachine_K230313_14H\bin\IOApi_CLRLib.dll
+C:\Works\eMachine_K230313_14H\bin\MathNet.Numerics.dll
+C:\Works\eMachine_K230313_14H\bin\System.Data.SQLite.dll
+C:\Works\eMachine_K230313_14H\bin\System.Data.SQLite.EF6.dll
+C:\Works\eMachine_K230313_14H\bin\System.Data.SQLite.Linq.dll
+C:\Works\eMachine_K230313_14H\bin\System.ValueTuple.dll
+C:\Works\eMachine_K230313_14H\bin\WinFormAnimation.dll
+C:\Works\eMachine_K230313_14H\bin\YJ_CLib.dll
+C:\Works\eMachine_K230313_14H\bin\StApiDotNet20_v1_1.dll
+C:\Works\eMachine_K230313_14H\bin\GenApiDotNet20_v3_2.dll
+C:\Works\eMachine_K230313_14H\bin\System.Numerics.Vectors.dll
+C:\Works\eMachine_K230313_14H\bin\CircularProgressBar.xml
+C:\Works\eMachine_K230313_14H\bin\EntityFramework.xml
+C:\Works\eMachine_K230313_14H\bin\EntityFramework.SqlServer.xml
+C:\Works\eMachine_K230313_14H\bin\MathNet.Numerics.xml
+C:\Works\eMachine_K230313_14H\bin\System.Data.SQLite.xml
+C:\Works\eMachine_K230313_14H\bin\System.ValueTuple.xml
+C:\Works\eMachine_K230313_14H\bin\YJ_CLib.pdb
+C:\Works\eMachine_K230313_14H\obj\Release\Calendar.cFrmCalendar.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmChangeOperID.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmChart.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmDetailChart.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmUpdateInfo.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmCamDx.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmCtrlMC.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmBinColor.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmCtrlMotr.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmInput.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmLot.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMControl.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FormMIOSetting.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMManual.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMMotion.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMMotor.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMIO.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMDb.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FormOper.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FormPosition.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmSMotor.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmSManual.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMSetting.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMAdmin.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMProject.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmAlarm.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmInputPos.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmLot2.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMessage.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmLogin.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmMain.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmProgress.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmSetInOut.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmSetMotr.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmSVision.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.FrmSTool.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine.Properties.Resources.resources
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+C:\Works\eMachine_K230313_14H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+C:\Works\eMachine_K230313_14H\obj\Release\WAFERALIGNER.exe
+C:\Works\eMachine_K230313_14H\obj\Release\WAFERALIGNER.pdb
+C:\Works\eMachine\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+C:\Works\eMachine\obj\Release\eMachine.FormMIOSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\EntityFramework.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\EntityFramework.SqlServer.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.Data.SQLite.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.Data.SQLite.EF6.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.Data.SQLite.Linq.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.ValueTuple.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.Memory.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.Numerics.Vectors.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.Buffers.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\EntityFramework.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\EntityFramework.SqlServer.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.Data.SQLite.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\System.ValueTuple.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmCamDx.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FormMIOSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmSVision.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230329_09H\obj\Release\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\EntityFramework.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\EntityFramework.SqlServer.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.Data.SQLite.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.Data.SQLite.EF6.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.Data.SQLite.Linq.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.ValueTuple.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.Memory.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.Numerics.Vectors.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.Buffers.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\EntityFramework.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\EntityFramework.SqlServer.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.Data.SQLite.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.ValueTuple.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmCamDx.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FormMIOSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmSVision.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\SharpDX.Direct2D1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\SharpDX.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\SharpDX.Mathematics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\SharpDX.DXGI.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\OpenCvSharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Open_eVision_NetApi_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\halcondotnet.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.Caliper.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.PMAlign.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.ImageProcessing.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.Blob.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.ImageFile.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.SearchMax.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\OpenCvSharp.Extensions.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.Interop.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\stdole.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.CorePlus.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Matrox.MatroxImagingLibrary.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Open_eVision_NetApi_22_04.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\halcondotnet.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.ImageProcessing.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.Blob.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.SearchMax.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\bin\Cognex.VisionPro.CorePlus.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230330_17H\obj\Release\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\EntityFramework.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\EntityFramework.SqlServer.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.Data.SQLite.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.Data.SQLite.EF6.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.Data.SQLite.Linq.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.ValueTuple.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.Memory.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.Numerics.Vectors.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.Buffers.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\EntityFramework.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\EntityFramework.SqlServer.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.Data.SQLite.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\System.ValueTuple.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmCamDx.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FormMIOSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmSVision.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230331_14H\obj\Release\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\EntityFramework.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\EntityFramework.SqlServer.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.Data.SQLite.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.Data.SQLite.EF6.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.Data.SQLite.Linq.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.ValueTuple.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.Memory.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.Numerics.Vectors.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.Buffers.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\EntityFramework.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\EntityFramework.SqlServer.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.Data.SQLite.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.ValueTuple.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmCamDx.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FormMIOSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmSVision.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\SharpDX.Direct2D1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\SharpDX.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\SharpDX.Mathematics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\SharpDX.DXGI.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\OpenCvSharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Open_eVision_NetApi_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\halcondotnet.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.Caliper.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.PMAlign.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.ImageProcessing.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.Blob.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.ImageFile.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.SearchMax.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\OpenCvSharp.Extensions.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.Interop.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\stdole.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.CorePlus.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Matrox.MatroxImagingLibrary.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Open_eVision_NetApi_22_04.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\halcondotnet.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.ImageProcessing.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.Blob.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.SearchMax.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\bin\Cognex.VisionPro.CorePlus.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230602_13H\obj\Release\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmCamDx.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FormMIOSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmSVision.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\EntityFramework.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\EntityFramework.SqlServer.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.Data.SQLite.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.Data.SQLite.EF6.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.Data.SQLite.Linq.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.ValueTuple.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\SharpDX.Direct2D1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\SharpDX.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\SharpDX.Mathematics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\SharpDX.DXGI.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\OpenCvSharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.Memory.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Open_eVision_NetApi_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\halcondotnet.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.Caliper.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.PMAlign.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.Numerics.Vectors.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.ImageProcessing.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.Blob.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.ImageFile.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.SearchMax.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\OpenCvSharp.Extensions.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.Buffers.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.Interop.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\stdole.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.CorePlus.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\EntityFramework.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\EntityFramework.SqlServer.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.Data.SQLite.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\System.ValueTuple.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Matrox.MatroxImagingLibrary.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Open_eVision_NetApi_22_04.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\halcondotnet.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.ImageProcessing.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.Blob.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.SearchMax.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\bin\Cognex.VisionPro.CorePlus.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230623_10H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmCamDx.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FormMIOSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmSVision.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\EntityFramework.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\EntityFramework.SqlServer.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.Data.SQLite.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.Data.SQLite.EF6.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.Data.SQLite.Linq.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.ValueTuple.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.Memory.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.Numerics.Vectors.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.Buffers.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\EntityFramework.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\EntityFramework.SqlServer.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.Data.SQLite.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\System.ValueTuple.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230801_09H\obj\Release\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\x86\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\x64\sqlite3.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\WAFERALIGNER.exe.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\AdvancedMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\ApiBufferApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\BigMansStuff.LocusEffects.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\CircularProgressBar.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\CoreMotionApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\EcApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\EcFilter_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\EntityFramework.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\EntityFramework.SqlServer.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\FontAwesome.Sharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\IOApi_CLRLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\MathNet.Numerics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.Data.SQLite.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.Data.SQLite.EF6.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.Data.SQLite.Linq.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.ValueTuple.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\WinFormAnimation.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\YJ_CLib.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\StApiDotNet20_v1_1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\GenApiDotNet20_v3_2.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.Memory.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.Numerics.Vectors.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.Buffers.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\CircularProgressBar.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\EntityFramework.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\EntityFramework.SqlServer.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\MathNet.Numerics.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.Data.SQLite.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.ValueTuple.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\YJ_CLib.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\Calendar.cFrmCalendar.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmChangeOperID.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmDetailChart.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmUpdateInfo.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmCamDx.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmCtrlMC.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmBinColor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmCtrlMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmInput.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmLot.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMControl.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FormMIOSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMMotion.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMIO.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMDb.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FormOper.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FormPosition.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmSMotor.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmSManual.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMSetting.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMAdmin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMProject.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmAlarm.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmInputPos.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmLot2.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMessage.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmLogin.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmMain.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmProgress.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmSetInOut.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmSetMotr.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmSVision.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.FrmSTool.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine.Properties.Resources.resources
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine_Aligner.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\WAFERALIGNER.exe
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\WAFERALIGNER.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Matrox.MatroxImagingLibrary.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\SharpDX.Direct2D1.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\SharpDX.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\SharpDX.Mathematics.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\SharpDX.DXGI.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\OpenCvSharp.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Open_eVision_NetApi_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\halcondotnet.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.Caliper.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.PMAlign.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.ImageProcessing.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.Blob.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.ImageFile.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.SearchMax.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\OpenCvSharp.Extensions.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.Interop.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\stdole.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.CorePlus.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Matrox.MatroxImagingLibrary.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Open_eVision_NetApi_22_04.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\halcondotnet.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.ImageProcessing.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.Blob.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.SearchMax.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\bin\Cognex.VisionPro.CorePlus.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K231117_15H\obj\Release\WAFERALIGNER.exe.config
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine_Aligner.csproj.AssemblyReference.cache
+C:\Works\eMachine_K231117_15H\obj\Release\Calendar.cFrmCalendar.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmChangeOperID.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmChart.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmDetailChart.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmUpdateInfo.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmCamDx.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmCtrlMC.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmBinColor.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmCtrlMotr.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmInput.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmLot.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMControl.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FormMIOSetting.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMManual.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMMotion.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMMotor.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMIO.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMDb.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FormOper.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FormPosition.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmSMotor.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmSManual.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMSetting.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMAdmin.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMProject.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmAlarm.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmInputPos.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmLot2.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMessage.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmLogin.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmMain.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmProgress.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmSetInOut.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmSetMotr.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmSVision.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.FrmSTool.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine.Properties.Resources.resources
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine_Aligner.csproj.GenerateResource.cache
+C:\Works\eMachine_K231117_15H\obj\Release\eMachine_Aligner.csproj.CoreCompileInputs.cache
+C:\Works\eMachine_K231117_15H\obj\Release\WAFERALIGNER.exe
+C:\Works\eMachine_K231117_15H\obj\Release\WAFERALIGNER.pdb
+C:\Works\eMachine\bin\dll\x86\OpenCvSharpExtern.dll
+C:\Works\eMachine\bin\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Works\eMachine\bin\dll\x64\OpenCvSharpExtern.dll
+C:\Works\eMachine\bin\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Works\eMachine\bin\Library\Evision\Open_eVision_22_04.dll
+C:\Works\eMachine\bin\Library\Evision\Open_eVision_FNP_22_04.dll
+C:\Works\eMachine\bin\Library\Evision\Open_eVision_NetApi_22_04.dll
+C:\Works\eMachine\bin\Library\Halcon\halcondotnet.dll
+C:\Works\eMachine\bin\Library\Halcon\halcondotnet.xml
+C:\Works\eMachine\bin\Library\OpencvSharp\OpenCvSharpExtern.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.Core.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.ImageFile.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.ImageProcessing.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.ImageProcessing.xml
+C:\Works\eMachine\bin\Library\Evision\Open_eVision_NetApi_22_04.dll.config
+C:\Works\eMachine\bin\System.Memory.dll
+C:\Works\eMachine\bin\System.Buffers.dll
+C:\Works\eMachine\obj\Release\eMachine.C69A01B3.Up2Date
+C:\Works\eMachine\bin\Matrox.MatroxImagingLibrary.dll
+C:\Works\eMachine\bin\OpenCvSharp.dll
+C:\Works\eMachine\bin\Open_eVision_NetApi_22_04.dll
+C:\Works\eMachine\bin\halcondotnet.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.Core.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.Caliper.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.PMAlign.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.ImageProcessing.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.Blob.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.ImageFile.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.SearchMax.dll
+C:\Works\eMachine\bin\OpenCvSharp.Extensions.dll
+C:\Works\eMachine\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.Interop.Core.dll
+C:\Works\eMachine\bin\Cognex.VisionPro.CorePlus.dll
+C:\Works\eMachine\bin\Matrox.MatroxImagingLibrary.xml
+C:\Works\eMachine\bin\OpenCvSharp.xml
+C:\Works\eMachine\bin\Open_eVision_NetApi_22_04.dll.config
+C:\Works\eMachine\bin\halcondotnet.xml
+C:\Works\eMachine\bin\Cognex.VisionPro.xml
+C:\Works\eMachine\bin\Cognex.VisionPro.ImageProcessing.xml
+C:\Works\eMachine\bin\Cognex.VisionPro.Blob.xml
+C:\Works\eMachine\bin\Cognex.VisionPro.SearchMax.xml
+C:\Works\eMachine\bin\OpenCvSharp.Extensions.xml
+C:\Works\eMachine\bin\Cognex.VisionPro.CorePlus.xml
+C:\Works\eMachine\obj\Release\eMachine_Aligner.csproj.SuggestedBindingRedirects.cache
+C:\Works\eMachine\obj\Release\WAFERALIGNER.exe.config

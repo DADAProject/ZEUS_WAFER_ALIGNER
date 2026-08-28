@@ -1,0 +1,410 @@
+GRADE [0=Display][1=Warning][2=Error]
+KIND  [0=Machine][1=Material][2=Man][3=Method]
+NO, GRADE, KIND, PART, NAME
+0001, 0,0,Wafer Table,Machine All Homming
+0010, 0,0,Wafer Table,서버 연결상태가 아닙니다.
+0011, 0,0,Wafer Table,TESTER 연결상태가 아닙니다.
+0020, 0,0,Wafer Table,Homming LOADER MAGAZINE SCAN Z AXIS
+0021, 0,0,Wafer Table,Homming UNLOADER MAGAZINE SCAN Z AXIS
+0022, 0,0,Wafer Table,Homming ALIGNER X AXIS
+0023, 0,0,Wafer Table,Homming ALIGNER Y AXIS
+0024, 0,0,Wafer Table,Homming ALIGNER T AXIS
+0026, 0,0,Wafer Table,Homming CHAMBER WAFER TABLE T AXIS
+0027, 0,0,Wafer Table,Homming CHAMBER WAFER TABLE Z AXIS
+0028, 0,0,Wafer Table,Homming CHAMBER NOZZLE TILE AXIS
+0029, 0,0,Wafer Table,Homming CHAMBER BRUSH TILT AXIS
+0030, 0,0,Wafer Table,Homming CHAMBER BRUSH T AXIS
+0031, 0,0,Wafer Table,Homming WAFER TRANSFER X AXIS
+0032, 0,0,Wafer Table,Homming WAFER TRANSFER T AXIS
+0033, 0,0,Wafer Table,Homming WAFER TRANSFER Z AXIS
+0034, 0,0,Wafer Table,Homming WAFER TRANSFER Y AXIS__TEST
+0200, 2,0,Wafer Table,LOADER SCAN Z AXIS ALARM
+0201, 2,0,Wafer Table,LOADER SCAN Z AXIS +LIMIT
+0202, 2,0,Wafer Table,LOADER SCAN Z AXIS -LIMIT
+0203, 2,0,Wafer Table,LOADER SCAN Z AXIS Initial
+0204, 2,0,Wafer Table,LOADER SCAN Z AXIS CONTROL ERROR
+0205, 2,0,Wafer Table,LOADER SCAN Z AXIS HOLDING (SAFETY Senser)
+0206, 2,0,Wafer Table,LOADER SCAN Z AXIS Position PARAMETER LIMIT Sensor
+0207, 2,0,Wafer Table,LOADER SCAN Z AXIS Speed PARAMETER LIMIT Sensor
+0208, 2,0,Wafer Table,LOADER SCAN Z AXIS Acc/Dec PARAMETER LIMIT Sensor
+0210, 2,0,Wafer Table,UNLOADER SCAN Z AXIS ALARM
+0211, 2,0,Wafer Table,UNLOADER SCAN Z AXIS +LIMIT
+0212, 2,0,Wafer Table,UNLOADER SCAN Z AXIS -LIMIT
+0213, 2,0,Wafer Table,UNLOADER SCAN Z AXIS Initial
+0214, 2,0,Wafer Table,UNLOADER SCAN Z AXIS CONTROL ERROR
+0215, 2,0,Wafer Table,UNLOADER SCAN Z AXIS HOLDING (SAFETY Senser)
+0216, 2,0,Wafer Table,UNLOADER SCAN Z AXIS Position PARAMETER LIMIT Sensor
+0217, 2,0,Wafer Table,UNLOADER SCAN Z AXIS Speed PARAMETER LIMIT Sensor
+0218, 2,0,Wafer Table,UNLOADER SCAN Z AXIS Acc/Dec PARAMETER LIMIT Sensor
+0220, 2,0,Right Load Head,ALIGNER X AXIS ALARM
+0221, 2,0,Right Load Head,ALIGNER X AXIS +LIMIT
+0222, 2,0,Right Load Head,ALIGNER X AXIS -LIMIT
+0223, 2,0,Right Load Head,ALIGNER X AXIS Initial
+0224, 2,0,Right Load Head,ALIGNER X AXIS CONTROL ERROR
+0225, 2,0,Right Load Head,ALIGNER X AXIS HOLDING (SAFETY Senser)
+0226, 2,0,Right Load Head,ALIGNER X AXIS Position PARAMETER LIMIT Sensor
+0227, 2,0,Right Load Head,ALIGNER X AXIS Speed PARAMETER LIMIT Sensor
+0228, 2,0,Right Load Head,ALIGNER X AXIS Acc/Dec PARAMETER LIMIT Sensor
+0230, 2,0,Right Load Head,ALIGNER Y AXIS ALARM
+0231, 2,0,Right Load Head,ALIGNER Y AXIS +LIMIT
+0232, 2,0,Right Load Head,ALIGNER Y AXIS -LIMIT
+0233, 2,0,Right Load Head,ALIGNER Y AXIS Initial
+0234, 2,0,Right Load Head,ALIGNER Y AXIS CONTROL ERROR
+0235, 2,0,Right Load Head,ALIGNER Y AXIS HOLDING (SAFETY Senser)
+0236, 2,0,Right Load Head,ALIGNER Y AXIS Position PARAMETER LIMIT Sensor
+0237, 2,0,Right Load Head,ALIGNER Y AXIS Speed PARAMETER LIMIT Sensor
+0238, 2,0,Right Load Head,ALIGNER Y AXIS Acc/Dec PARAMETER LIMIT Sensor
+0240, 2,0,Right Load Head,ALIGNER T AXIS ALARM
+0241, 2,0,Right Load Head,ALIGNER T AXIS +LIMIT
+0242, 2,0,Right Load Head,ALIGNER T AXIS -LIMIT
+0243, 2,0,Right Load Head,ALIGNER T AXIS Initial
+0244, 2,0,Right Load Head,ALIGNER T AXIS CONTROL ERROR
+0245, 2,0,Right Load Head,ALIGNER T AXIS HOLDING (SAFETY Senser)
+0246, 2,0,Right Load Head,ALIGNER T AXIS Position PARAMETER LIMIT Sensor
+0247, 2,0,Right Load Head,ALIGNER T AXIS Speed PARAMETER LIMIT Sensor
+0248, 2,0,Right Load Head,ALIGNER T AXIS Acc/Dec PARAMETER LIMIT Sensor
+0260, 2,0,Left Load Head,CHAMBER TABLE T AXIS ALARM
+0261, 2,0,Left Load Head,CHAMBER TABLE T AXIS +LIMIT
+0262, 2,0,Left Load Head,CHAMBER TABLE T AXIS -LIMIT
+0263, 2,0,Left Load Head,CHAMBER TABLE T AXIS Initial
+0264, 2,0,Left Load Head,CHAMBER TABLE T AXIS CONTROL ERROR
+0265, 2,0,Left Load Head,CHAMBER TABLE T AXIS HOLDING (SAFETY Senser)
+0266, 2,0,Left Load Head,CHAMBER TABLE T AXIS Position PARAMETER LIMIT Sensor
+0267, 2,0,Left Load Head,CHAMBER TABLE T AXIS Speed PARAMETER LIMIT Sensor
+0268, 2,0,Left Load Head,CHAMBER TABLE T AXIS Acc/Dec PARAMETER LIMIT Sensor
+0270, 2,0,Left Load Head,CHAMBER TABLE Z AXIS ALARM
+0271, 2,0,Left Load Head,CHAMBER TABLE Z AXIS +LIMIT
+0272, 2,0,Left Load Head,CHAMBER TABLE Z AXIS -LIMIT
+0273, 2,0,Left Load Head,CHAMBER TABLE Z AXIS Initial
+0274, 2,0,Left Load Head,CHAMBER TABLE Z AXIS CONTROL ERROR
+0275, 2,0,Left Load Head,CHAMBER TABLE Z AXIS HOLDING (SAFETY Senser)
+0276, 2,0,Left Load Head,CHAMBER TABLE Z AXIS Position PARAMETER LIMIT Sensor
+0277, 2,0,Left Load Head,CHAMBER TABLE Z AXIS Speed PARAMETER LIMIT Sensor
+0278, 2,0,Left Load Head,CHAMBER TABLE Z AXIS Acc/Dec PARAMETER LIMIT Sensor
+0280, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS ALARM
+0281, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS +LIMIT
+0282, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS -LIMIT
+0283, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS Initial
+0284, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS CONTROL ERROR
+0285, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS HOLDING (SAFETY Senser)
+0286, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS Position PARAMETER LIMIT Sensor
+0287, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS Speed PARAMETER LIMIT Sensor
+0288, 2,0,Left Load Head,CHAMBER NOZZLE TL AXIS Acc/Dec PARAMETER LIMIT Sensor
+0290, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS ALARM
+0291, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS +LIMIT
+0292, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS -LIMIT
+0293, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS Initial
+0294, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS CONTROL ERROR
+0295, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS HOLDING (SAFETY Senser)
+0296, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS Position PARAMETER LIMIT Sensor
+0297, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS Speed PARAMETER LIMIT Sensor
+0298, 2,0,Left Load Head,CHAMBER BRUSH TL AXIS Acc/Dec PARAMETER LIMIT Sensor
+0300, 2,0,Left Load Head,CHAMBER BRUSH T AXIS ALARM
+0301, 2,0,Left Load Head,CHAMBER BRUSH T AXIS +LIMIT
+0302, 2,0,Left Load Head,CHAMBER BRUSH T AXIS -LIMIT
+0303, 2,0,Left Load Head,CHAMBER BRUSH T AXIS Initial
+0304, 2,0,Left Load Head,CHAMBER BRUSH T AXIS CONTROL ERROR
+0305, 2,0,Left Load Head,CHAMBER BRUSH T AXIS HOLDING (SAFETY Senser)
+0306, 2,0,Left Load Head,CHAMBER BRUSH T AXIS Position PARAMETER LIMIT Sensor
+0307, 2,0,Left Load Head,CHAMBER BRUSH T AXIS Speed PARAMETER LIMIT Sensor
+0308, 2,0,Left Load Head,CHAMBER BRUSH T AXIS Acc/Dec PARAMETER LIMIT Sensor
+0310, 2,0,Wafer Table,TRANSFER X AXIS ALARM
+0311, 2,0,Wafer Table,TRANSFER X AXIS +LIMIT
+0312, 2,0,Wafer Table,TRANSFER X AXIS -LIMIT
+0313, 2,0,Wafer Table,TRANSFER X AXIS Initial
+0314, 2,0,Wafer Table,TRANSFER X AXIS CONTROL ERROR
+0315, 2,0,Wafer Table,TRANSFER X AXIS HOLDING (SAFETY Senser)
+0316, 2,0,Wafer Table,TRANSFER X AXIS Position PARAMETER LIMIT Sensor
+0317, 2,0,Wafer Table,TRANSFER X AXIS Speed PARAMETER LIMIT Sensor
+0318, 2,0,Wafer Table,TRANSFER X AXIS Acc/Dec PARAMETER LIMIT Sensor
+0320, 2,0,Wafer Table,TRANSFER T AXIS ALARM
+0321, 2,0,Wafer Table,TRANSFER T AXIS +LIMIT
+0322, 2,0,Wafer Table,TRANSFER T AXIS -LIMIT
+0323, 2,0,Wafer Table,TRANSFER T AXIS Initial
+0324, 2,0,Wafer Table,TRANSFER T AXIS CONTROL ERROR
+0325, 2,0,Wafer Table,TRANSFER T AXIS HOLDING (SAFETY Senser)
+0326, 2,0,Wafer Table,TRANSFER T AXIS Position PARAMETER LIMIT Sensor
+0327, 2,0,Wafer Table,TRANSFER T AXIS Speed PARAMETER LIMIT Sensor
+0328, 2,0,Wafer Table,TRANSFER T AXIS Acc/Dec PARAMETER LIMIT Sensor
+0330, 2,0,Wafer Table,TRANSFER Z AXIS ALARM
+0331, 2,0,Wafer Table,TRANSFER Z AXIS +LIMIT
+0332, 2,0,Wafer Table,TRANSFER Z AXIS -LIMIT
+0333, 2,0,Wafer Table,TRANSFER Z AXIS Initial
+0334, 2,0,Wafer Table,TRANSFER Z AXIS CONTROL ERROR
+0335, 2,0,Wafer Table,TRANSFER Z AXIS HOLDING (SAFETY Senser)
+0336, 2,0,Wafer Table,TRANSFER Z AXIS Position PARAMETER LIMIT Sensor
+0337, 2,0,Wafer Table,TRANSFER Z AXIS Speed PARAMETER LIMIT Sensor
+0338, 2,0,Wafer Table,TRANSFER Z AXIS Acc/Dec PARAMETER LIMIT Sensor
+0340, 2,0,Wafer Table,TRANSFER Y AXIS ALARM
+0341, 2,0,Wafer Table,TRANSFER Y AXIS +LIMIT
+0342, 2,0,Wafer Table,TRANSFER Y AXIS -LIMIT
+0343, 2,0,Wafer Table,TRANSFER Y AXIS Initial
+0344, 2,0,Wafer Table,TRANSFER Y AXIS CONTROL ERROR
+0345, 2,0,Wafer Table,TRANSFER Y AXIS HOLDING (SAFETY Senser)
+0346, 2,0,Wafer Table,TRANSFER Y AXIS Position PARAMETER LIMIT Sensor
+0347, 2,0,Wafer Table,TRANSFER Y AXIS Speed PARAMETER LIMIT Sensor
+0348, 2,0,Wafer Table,TRANSFER Y AXIS Acc/Dec PARAMETER LIMIT Sensor
+0450, 2,0,Left Load Head,Chamber - 챔버 게이트 Open/Close 솔벨브 Cylinder TimeOut Error
+0451, 2,0,Left Load Head,Chamber - DIW 노즐 회전 0도/180도 솔벨브 Cylinder TimeOut Error
+0452, 2,0,Left Load Head,Chamber - 챔버 Vent On/Off 솔벨브 Cylinder TimeOut Error
+0453, 2,0,Left Load Head,Chamber - DRY AIR On/Off 솔벨브 Cylinder TimeOut Error
+0454, 2,0,Left Load Head,Chamber - 노즐 Up/Down 솔벨브 Cylinder TimeOut Error
+0455, 2,0,Left Load Head,Chamber - 브러시 Up/Down 솔벨브 Cylinder TimeOut Error
+0456, 2,0,Left Load Head,Chamber - 웨이퍼 Clamp/UnClamp 솔벨브[단동] Cylinder TimeOut Error
+0457, 2,0,Left Load Head,Chamber - DIW 노즐 잔류 배기 솔벨브[단동] Cylinder TimeOut Error
+0458, 2,0,Left Load Head,Chamber - DIW 노즐 공급 솔벨브[단동] Cylinder TimeOut Error
+0459, 2,0,Left Load Head,Chamber - 웨이퍼 하부 Dry Air 솔벨브[단동] Cylinder TimeOut Error
+0460, 2,0,Left Load Head,Chamber - Hot DIW Tank 공급 솔벨브 Cylinder TimeOut Error
+0461, 2,0,Wafer Table,Tranfer - 웨이퍼 Flip 0도/180도 솔벨브 Cylinder TimeOut Error
+0462, 2,0,Wafer Table,Tranfer - 웨이퍼 픽업 Clamp/UnClamp 솔벨브 Cylinder TimeOut Error
+0463, 2,0,Wafer Table,Tranfer - Ejecter On/Off 솔벨브 Cylinder TimeOut Error
+0464, 2,0,Right Load Head,Aligner - Wafer 클램프 솔벨브 Cylinder TimeOut Error
+0465, 2,0,Right Load Head,Aligner - Wafer Up/Down 솔벨브 Cylinder TimeOut Error
+0466, 2,0,Wafer Table,Loader - Magazine FWD/BWD 솔벨브 Cylinder TimeOut Error
+0467, 2,0,Wafer Table,Loader - Magazine Clamp/UnClamp 솔벨브 Cylinder TimeOut Error
+0468, 2,0,Wafer Table,UnLoader - Magazine FWD/BWD 솔벨브 Cylinder TimeOut Error
+0469, 2,0,Wafer Table,UnLoader - Magazine Clamp/UnClamp 솔벨브 Cylinder TimeOut Error
+0500, 2,0,Wafer Table,ALL HOME Time-Out
+0501, 2,0,Wafer Table,TOP PART HOME Time-Out
+0502, 2,0,Wafer Table,BOTTOM PART HOME Time-Out
+0503, 2,0,Wafer Table,WAFER TRANSFER PART Home Time-OUT
+0504, 2,0,Left Load Head,WAFER CLEAN PART Home Time-OUT
+0505, 2,0,Right Load Head,WAFER ALIGNER PART Home Time-OUT
+0520, 2,0,Main Roator,SEQUENCE TO START CYCLE 시간 초과
+0521, 2,0,Main Roator,SEQUENCE TO STOP CYCLE 시간 초과
+0522, 2,0,Main Roator,LOT CYCLE 시간 초과
+0523, 2,0,Main Roator,SECS/GEM Commication CYCLE 시간 초과
+0524, 2,0,Main Roator,FTP Commication CYCLE 시간 초과
+0525, 2,0,Main Roator,TESTER Commication CYCLE 시간 초과
+0530, 2,0,Main Roator,SECS/GEM Commication Result Fail
+0531, 2,0,Main Roator,FTP Commication Result Fail
+0532, 2,0,Main Roator,TESTER Commication Result Fail
+0600, 2,0,Right Load Head,Wafer Transfer - TO START CYCLE 시간 초과
+0601, 2,0,Right Load Head,Wafer Transfer - TO STOP CYCLE 시간 초과
+0602, 2,0,Right Load Head,Wafer Transfer - Main Cycle 시간 초과
+0603, 2,0,Right Load Head,Wafer Transfer - Pick Wafer Cycle 시간 초과
+0604, 2,0,Right Load Head,Wafer Transfer - Place Wafer Cycle 시간 초과
+0605, 2,0,Right Load Head,Ring Frame Load Port - Ring Frame Frame Cassette Supply Cycle 시간 초과
+0606, 2,0,Right Load Head,Ring Frame Load Port - Ring Frame Frame Cassette Eject Cycle 시간 초과
+0607, 2,0,Right Load Head,Ring Frame Load Port - Ring Frame Frame Cassette Remove Cycle 시간 초과
+0608, 2,0,Right Load Head,Wafer Aligner - Wafer Algin Cycle 시간 초과
+0610, 2,0,Wafer Table,Load Magazine - Cassette에 Plate 정렬 상태가 좋지 않습니다.
+0611, 2,0,Wafer Table,Load Magazine - Cassette 작업 할 Slot에 알 수 없는 Wafer가 존재합니다.
+0612, 2,0,Wafer Table,Load Magazine - Cassette 작업 할 Slot에 작업 할 Wafer가 존재합니다.
+0613, 2,0,Wafer Table,Load Magazine - Cassette에 Wafer를 배출할 SLOT이 없습니다.
+0614, 2,0,Wafer Table,Load Magazine - Cassette 에 Wafer Protrude Check 센서가 감지되었습니다.
+0620, 2,0,Wafer Table,Unload Magazine - Cassette에 Plate 정렬 상태가 좋지 않습니다.
+0621, 2,0,Wafer Table,Unload Magazine - Cassette 작업 할 Slot에 알 수 없는 Wafer가 존재합니다.
+0622, 2,0,Wafer Table,Unload Magazine - Cassette 작업 할 Slot에 작업 할 Wafer가 존재합니다.
+0623, 2,0,Wafer Table,Unload Magazine - Cassette에 Wafer를 배출할 SLOT이 없습니다.
+0624, 2,0,Wafer Table,Unload Magazine - Cassette 에 Wafer Protrude Check 센서가 감지되었습니다.
+0630, 2,0,Wafer Table,Wafer Transfer - 알수없는 Wafer
+0631, 2,0,Wafer Table,Wafer Transfer - Wafer 사라짐
+0641, 2,1,Right Load Head,Carrier Load Port - TO START CYCLE 시간 초과
+0642, 2,1,Right Load Head,Carrier Load Port - TO STOP CYCLE 시간 초과
+0643, 2,1,Right Load Head,Carrier Load Port - Main Cycle 시간 초과
+0644, 2,1,Right Load Head,Carrier Load Port -  Cassette Suply Cycle 시간 초과
+0645, 2,1,Right Load Head,Carrier Load Port -  Cassette Eject Cycle 시간 초과
+0646, 2,1,Right Load Head,Carrier Load Port -  Cassette Remove Cycle 시간 초과
+0650, 2,0,Left Load Head,Clean Chamber - TO START CYCLE 시간 초과
+0651, 2,0,Left Load Head,Clean Chamber - TO STOP CYCLE 시간 초과
+0652, 2,0,Left Load Head,Clean Chamber - Main Cycle 시간 초과
+0653, 2,0,Left Load Head,Clean Chamber - Wafer Clean Cycle 시간 초과
+0660, 2,0,Left Load Head,Clean Chamber - 알수없는 Wafer
+0661, 2,0,Left Load Head,Clean Chamber - Wafer 사라짐
+0670, 2,0,Main Roator,EFEM Left  Door Open
+0671, 2,0,Main Roator,Inspection Door Open
+0672, 2,0,Main Roator,Door Open
+0673, 2,0,Main Roator,EFEM Right Door Open
+0680, 2,0,Wafer Table,Servo Motor MC Off
+0681, 2,0,Wafer Table,EFEM Servo Motor Power MC Off
+0682, 2,0,Main Roator,EFEM(Left) Emergency Stop
+0683, 2,0,Main Roator,EFEM(Right) Emergency Stop
+0684, 2,0,Main Roator,Main Panel 내부 온도 이상 PLC ALARM(40도 이상)
+0685, 2,0,Main Roator,SUB#1 Panel 내부 온도 이상 PLC Alarm(35도 이상)
+0686, 2,0,Main Roator,SUB#2 Panel 내부 온도 이상 PLC Alarm(35도 이상)
+0700, 2,0,Right Load Head,Wafer Aligner - TO START CYCLE 시간 초과
+0701, 2,0,Right Load Head,Wafer Aligner - TO STOP CYCLE 시간 초과
+0702, 2,0,Right Load Head,Wafer Aligner - Main Cycle 시간 초과
+0703, 2,0,Right Load Head,Wafer Aligner - Wafer Align Cycle 시간 초과
+0710, 2,0,Right Load Head,Wafer Aligner - 알수없는 Wafer
+0711, 2,0,Right Load Head,Wafer Aligner - Wafer 사라짐
+0750, 2,0,Wafer Table,Align Vision - Partten이 등록되지 않았습니다.
+0751, 2,0,Wafer Table,Align Vision - Camera가 초기화 되지 않았습니다.
+0752, 2,0,Wafer Table,Align Vision - Camera 영상 취득 실패
+0753, 2,0,Wafer Table,Align Vision - Match Find 실패
+0760, 2,0,Wafer Table,Main Air Not Supplied
+0762, 2,0,Wafer Table,Emergency S/W 눌림
+0770, 2,0,Wafer Table,Door Front / L Open
+0800, 2,0,Wafer Table,Lot End Status
+0801, 2,0,Wafer Table,Cassette 작업이 종료되었습니다. LOT END하시겠습니까?
+0802, 2,0,Wafer Table,새로운 Cassette을 공급해 주세요
+0803, 2,0,Wafer Table,작업 완료된 Cassette을 배출해 주세요
+1701, 2,0,Left Load Head,Carrier Load Port Not Exist!!!
+1702, 2,0,Wafer Table,Carrier Load Port #01 - Cassette Not Exist!!!
+1716, 2,0,Left Load Head,Carrier Load Port #01 - Clamp Time Over
+1717, 2,0,Left Load Head,Carrier Load Port #01 - Unclamp Time Over
+1718, 2,0,Left Load Head,Carrier Load Port #01 - Dock Time Over
+1719, 2,0,Left Load Head,Carrier Load Port #01 - Undock Time Over
+1720, 2,0,Left Load Head,Carrier Load Port #01 - Latch Time Over
+1721, 2,0,Left Load Head,Carrier Load Port #01 - Unlatch Time Over
+1722, 2,0,Left Load Head,Carrier Load Port #01 - Vacuum On Time Over
+1723, 2,0,Left Load Head,Carrier Load Port #01 - Vacuum Off Time Over
+1724, 2,0,Left Load Head,Carrier Load Port #01 - Door Open Time Over
+1725, 2,0,Left Load Head,Carrier Load Port #01 - Door Close Time Over
+1726, 2,0,Left Load Head,Carrier Load Port #01 - Slot Mapping Start Time Over
+1727, 2,0,Left Load Head,Carrier Load Port #01 - Slot Mapping End Time Over
+1731, 2,0,Left Load Head,Carrier Load Port #01 - Communication Error
+1732, 2,0,Left Load Head,Carrier Load Port #01 - Homming Time Over
+1733, 2,0,Left Load Head,Carrier Load Port #01 - Loading Time Over
+1734, 2,0,Left Load Head,Carrier Load Port #01 - Position Time Over
+1740, 2,0,Left Load Head,Carrier Load Port #01 - Door Open Position Move Time Over
+1741, 2,0,Left Load Head,Carrier Load Port #01 - Slot Mapping Start Position Move Time Over
+1742, 2,0,Left Load Head,Carrier Load Port #01 - Slot Mapping End Position Move Time Over
+1743, 2,0,Left Load Head,Carrier Load Port #01 - Load Position Move Time Over
+1764, 2,0,Left Load Head,Carrier Load Port #01 - Mapping Data Fail
+1765, 2,0,Left Load Head,Carrier Load Port #01 - Mode Change Fail
+1812, 2,0,Left Load Head,Carrier Load Port #01 - Clamp Sensor Fail
+1813, 2,0,Left Load Head,Carrier Load Port #01 - Dock Sensor Fail
+1814, 2,0,Left Load Head,Carrier Load Port #01 - Latch Sensor Fail
+1815, 2,0,Left Load Head,Carrier Load Port #01 - Door Sensor Fail
+1816, 2,0,Left Load Head,Carrier Load Port #01 - Mapping Sensor Fail
+1819, 2,0,Left Load Head,Carrier Load Port #01 - Elivator Axis Sensor Fail
+1860, 2,0,Left Load Head,Carrier Load Port #01 - Door Work Downfall
+1861, 2,0,Left Load Head,Carrier Load Port #01 - Wafer 돌출
+1862, 2,0,Left Load Head,Carrier Load Port #01 - Foup 안착 이상(안착 감지)
+1863, 2,0,Left Load Head,Carrier Load Port #01 - Foup 안착 이상(유무 감지)
+1865, 2,0,Left Load Head,Carrier Load Port #01 - 공압 저하
+1876, 2,0,Left Load Head,Carrier Load Port #01 - 상위 장치 이상(PIO 입력 없음)
+1892, 2,0,Left Load Head,Carrier Load Port #01 - Parameter 이상
+1924, 2,0,Left Load Head,Carrier Load Port #01 - FAN 정지 Alarm
+1927, 2,0,Left Load Head,Carrier Load Port #01 - 전압 저하
+1954, 2,0,Left Load Head,Carrier Load Port #01 - Dock 손 끼임 이상
+2012, 2,0,Wafer Table,Carrier Load Port #02 - Cassette Not Exist!!!
+2016, 2,0,Left Load Head,Carrier Load Port #02 - Clamp Time Over
+2017, 2,0,Left Load Head,Carrier Load Port #02 - Unclamp Time Over
+2018, 2,0,Left Load Head,Carrier Load Port #02 - Dock Time Over
+2019, 2,0,Left Load Head,Carrier Load Port #02 - Undock Time Over
+2020, 2,0,Left Load Head,Carrier Load Port #02 - Latch Time Over
+2021, 2,0,Left Load Head,Carrier Load Port #02 - Unlatch Time Over
+2022, 2,0,Left Load Head,Carrier Load Port #02 - Vacuum On Time Over
+2023, 2,0,Left Load Head,Carrier Load Port #02 - Vacuum Off Time Over
+2024, 2,0,Left Load Head,Carrier Load Port #02 - Door Open Time Over
+2025, 2,0,Left Load Head,Carrier Load Port #02 - Door Close Time Over
+2026, 2,0,Left Load Head,Carrier Load Port #02 - Slot Mapping Start Time Over
+2027, 2,0,Left Load Head,Carrier Load Port #02 - Slot Mapping End Time Over
+2031, 2,0,Left Load Head,Carrier Load Port #02 - Communication Error
+2032, 2,0,Left Load Head,Carrier Load Port #02 - Homming Time Over
+2033, 2,0,Left Load Head,Carrier Load Port #02 - Loading Time Over
+2034, 2,0,Left Load Head,Carrier Load Port #02 - Position Time Over
+2040, 2,0,Left Load Head,Carrier Load Port #02 - Door Open Position Move Time Over
+2041, 2,0,Left Load Head,Carrier Load Port #02 - Slot Mapping Start Position Move Time Over
+2042, 2,0,Left Load Head,Carrier Load Port #02 - Slot Mapping End Position Move Time Over
+2043, 2,0,Left Load Head,Carrier Load Port #02 - Load Position Move Time Over
+2064, 2,0,Left Load Head,Carrier Load Port #02 - Mapping Data Fail
+2065, 2,0,Left Load Head,Carrier Load Port #02 - Mode Change Fail
+2112, 2,0,Left Load Head,Carrier Load Port #02 - Clamp Sensor Fail
+2113, 2,0,Left Load Head,Carrier Load Port #02 - Dock Sensor Fail
+2114, 2,0,Left Load Head,Carrier Load Port #02 - Latch Sensor Fail
+2115, 2,0,Left Load Head,Carrier Load Port #02 - Door Sensor Fail
+2116, 2,0,Left Load Head,Carrier Load Port #02 - Mapping Sensor Fail
+2119, 2,0,Left Load Head,Carrier Load Port #02 - Elivator Axis Sensor Fail
+2160, 2,0,Left Load Head,Carrier Load Port #02 - Door Work Downfall
+2161, 2,0,Left Load Head,Carrier Load Port #02 - Wafer 돌출
+2162, 2,0,Left Load Head,Carrier Load Port #02 - Foup 안착 이상(안착 감지)
+2163, 2,0,Left Load Head,Carrier Load Port #02 - Foup 안착 이상(유무 감지)
+2165, 2,0,Left Load Head,Carrier Load Port #02 - 공압 저하
+2176, 2,0,Left Load Head,Carrier Load Port #02 - 상위 장치 이상(PIO 입력 없음)
+2192, 2,0,Left Load Head,Carrier Load Port #02 - Parameter 이상
+2224, 2,0,Left Load Head,Carrier Load Port #02 - FAN 정지 Alarm
+2227, 2,0,Left Load Head,Carrier Load Port #02 - 전압 저하
+2254, 2,0,Left Load Head,Carrier Load Port #02 - Dock 손 끼임 이상
+2301, 2,0,Right Load Head,Transfer Robot NOT HOME
+2302, 2,0,Right Load Head,Transfer Robot UNAVALUE COMMAND
+2303, 2,0,Right Load Head,Transfer Robot NOT GET WAFER
+2304, 2,0,Right Load Head,Transfer Robot NOT PUT WAFER
+2305, 2,0,Right Load Head,Transfer Robot OVER SLOT NUMBER
+2306, 2,0,Right Load Head,Transfer Robot ECH WAFER
+2310, 2,0,Right Load Head,Transfer Robot SIDE DOOR OPEN
+2311, 2,0,Right Load Head,Transfer Robot PAUSE ON
+2312, 2,0,Right Load Head,Transfer Robot STOP ON
+2320, 2,0,Right Load Head,Transfer Robot DLP1 CLOSE
+2321, 2,0,Right Load Head,Transfer Robot DLP2 CLOSE
+2322, 2,0,Right Load Head,Transfer Robot DLP3 CLOSE
+2323, 2,0,Right Load Head,Transfer Robot DLP4 CLOSE
+2324, 2,0,Right Load Head,Transfer Robot DLP5 CLOSE
+2330, 2,0,Right Load Head,Transfer Robot A(R)축 DRIVE ALARM
+2331, 2,0,Right Load Head,Transfer Robot B축 DRIVE ALARM
+2332, 2,0,Right Load Head,Transfer Robot T축 DRIVE ALARM
+2333, 2,0,Right Load Head,Transfer Robot Z축 DRIVE ALARM
+2334, 2,0,Right Load Head,Transfer Robot X축 DRIVE ALARM
+2335, 2,0,Right Load Head,Transfer Robot MOTION CONTROLLER ALARM
+2336, 2,0,Right Load Head,Transfer Robot MOTION CONTROLLER 통신 ALARM
+2337, 2,0,Right Load Head,Transfer Robot WAFER DROP ALARM
+2338, 2,0,Right Load Head,Transfer Robot MOTOR TORQUE AALARM
+2339, 2,0,Right Load Head,Transfer Robot FX DRIVE ALARM
+2340, 2,0,Right Load Head,Transfer Robot MAPPING NOT ALARM
+2341, 2,0,Right Load Head,Transfer Robot MAP R 통신 ALARM
+2342, 2,0,Right Load Head,Transfer Robot STOP ERROR
+2344, 2,0,Right Load Head,Transfer Robot EMG ALARM
+2345, 2,0,Right Load Head,Transfer Robot EMG SENSOR ON ALARM
+2346, 2,0,Right Load Head,Transfer Robot LMT SENSOR ERROR
+2347, 2,0,Right Load Head,Transfer Robot GRIP ALARM
+2350, 2,0,Right Load Head,Transfer Robot A(R)축 NOT BUSY ALARM
+2351, 2,0,Right Load Head,Transfer Robot B축 NOT BUSY ALARM
+2352, 2,0,Right Load Head,Transfer Robot T축 NOT BUSY ALARM
+2353, 2,0,Right Load Head,Transfer Robot Z축 NOT BUSY ALARM
+2354, 2,0,Right Load Head,Transfer Robot X축 NOT BUSY ALARM
+2355, 2,0,Right Load Head,Transfer Robot F축 NOT BUSY ALARM
+2356, 2,0,Right Load Head,Transfer Robot AB축 NOT BUSY ALARM
+2357, 2,0,Right Load Head,Transfer Robot ZX축 NOT BUSY ALARM
+2358, 2,0,Right Load Head,Transfer Robot TZ 축 NOT BUSY ALARM
+2359, 2,0,Right Load Head,Transfer Robot TZX 축 NOT BUSY ALARM
+2360, 2,0,Right Load Head,Transfer Robot ABTZ 축 NOT BUSY ALARM
+2370, 2,0,Right Load Head,Transfer Robot MA(R)END ALARM
+2371, 2,0,Right Load Head,Transfer Robot MBEND ALARM
+2372, 2,0,Right Load Head,Transfer Robot MTEND ALARM
+2373, 2,0,Right Load Head,Transfer Robot MZEND ALARM
+2374, 2,0,Right Load Head,Transfer Robot MXEND ALARM
+2375, 2,0,Right Load Head,Transfer Robot MFEND ALARM
+2380, 2,0,Right Load Head,Transfer Robot MA(R)ESC ALARM
+2381, 2,0,Right Load Head,Transfer Robot MBESC ALARM
+2382, 2,0,Right Load Head,Transfer Robot MTESC ALARM
+2383, 2,0,Right Load Head,Transfer Robot MZESC ALARM
+2384, 2,0,Right Load Head,Transfer Robot MXESC ALARM
+2385, 2,0,Right Load Head,Transfer Robot MFESC ALARM
+2391, 2,0,Right Load Head,Aligner - Request Wafer Message 응답 Error
+2392, 2,0,Right Load Head,Aligner - Wafer Place시에 Aligner Exist Wafer !!!!
+2393, 2,0,Right Load Head,Aligner - Homming Command 응답 Error
+2394, 2,0,Right Load Head,Aligner - Align Command 응답 Error
+2401, 2,0,Right Load Head,Aligner PIN UP Error
+2402, 2,0,Right Load Head,Aligner PIN DN Error
+2403, 2,0,Right Load Head,Aligner Vacuum Error
+2404, 2,0,Right Load Head,Aligner No Wafer
+2405, 2,0,Right Load Head,Aligner Wafer Limit Error
+2406, 2,0,Right Load Head,Aligner Not Found Notch
+2409, 2,0,Right Load Head,Aligner Stage Limit Error
+2410, 2,0,Right Load Head,Aligner Invalid Align Command
+2411, 2,0,Right Load Head,Aligner Chuck Arrange Error
+2412, 2,0,Right Load Head,Aligner Wafer 정렬 CCD위치 벗어남
+2413, 2,0,Right Load Head,Aligner Wafer Limit Error
+2417, 2,0,Right Load Head,Aligner Wafer 감지
+2420, 2,0,Right Load Head,Aligner CCD module
+2421, 2,0,Right Load Head,Aligner Aligner Type Error
+2422, 2,0,Right Load Head,Aligner Error Command
+2424, 2,0,Wafer Table,Aligner Not Ready !!!
+2431, 2,0,Right Load Head,Ring Frame CST Left Load Port 01 Door Not Open Error
+2432, 2,0,Right Load Head,Ring Frame CST Left Load Port 02 Door Not Open Error
+2433, 2,0,Right Load Head,Ring Frame CST Right Load Port 01 Door Not Open Error
+2434, 2,0,Right Load Head,Ring Frame CST Right Load Port 02 Door Not Open Error
+2435, 2,0,Right Load Head,Carrier CST Left Load Port Door Not Open Error
+2436, 2,0,Right Load Head,Carrier CST Right Load Port Door Not Open Error
+2438, 2,0,Right Load Head,Robot Extend Arm Error
+2441, 2,0,Right Load Head,Ring Frame CST Left Load Port 01 Not Place Error
+2442, 2,0,Right Load Head,Ring Frame CST Left Load Port 02 Not Place Error
+2443, 2,0,Right Load Head,Ring Frame CST Right Load Port 01 Not Place Error
+2444, 2,0,Right Load Head,Ring Frame CST Right Load Port 02 Not Place Error
+2446, 2,0,Right Load Head,Rring Frame Left Wafer Stage Not Safty Position !!!
+2447, 2,0,Right Load Head,Rring Frame Right Wafer Stage Not Safty Position !!!
+2448, 2,0,Right Load Head,Carrier Left Wafer Stage Not Safty Position !!!
+2449, 2,0,Right Load Head,Carrier Frame Right Wafer Stage Not Safty Position !!!

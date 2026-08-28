@@ -1,0 +1,336 @@
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\bin\InoModule.exe.config
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\bin\InoModule.exe
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\bin\InoModule.pdb
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\bin\UCL.dll
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\bin\UCL.pdb
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmMap.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmCam1.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmCam2.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmCam3.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmBinColor.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmTool.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmVision.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FormXGem.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.FrmMapEditor.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.exe
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\obj\Debug\InoModule.pdb
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\bin\XSecsMsg_C40_01_64.dll
+C:\Works\91. Customer\06. C#\SMP1000\03. Source\SMP1000\InoModule\bin\XSmNet_C40_01_64.dll
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.exe
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\bin\InoModule.exe.config
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\bin\InoModule.exe
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\bin\InoModule.pdb
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\bin\UCL.dll
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\bin\XSecsMsg_C40_01_64.dll
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\bin\XSmNet_C40_01_64.dll
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\bin\UCL.pdb
+C:\Works\91. Customer\06. C#\RS1000\03. Source\RS1000\InoModule\obj\Debug\InoModule.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.exe
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\obj\Debug\InoModule.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\BIN\InoModule.exe.config
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\BIN\InoModule.exe
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\BIN\InoModule.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\BIN\XSecsMsg_C40_01_64.dll
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\BIN\XSmNet_C40_01_64.dll
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder\InoModule\BIN\UCL.pdb
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.exe.config
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.exe
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.pdb
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\BIN\UCL.dll
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\BIN\XSecsMsg_C40_01_64.dll
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\BIN\XSmNet_C40_01_64.dll
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\BIN\UCL.pdb
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.exe
+C:\Users\innobiz\Desktop\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.pdb
+D:\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.exe.config
+D:\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.exe
+D:\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.pdb
+D:\Bonder_190129\03. Source\Bonder\InoModule\BIN\UCL.dll
+D:\Bonder_190129\03. Source\Bonder\InoModule\BIN\UCL.pdb
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.VisionView.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmConv.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmEngr.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmHistory.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLot.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmManual.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMessage.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLogin.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMain.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmOper.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmPos.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmProgress.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetting.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.exe
+D:\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.exe
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.exe.config
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.exe
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\BIN\InoModule.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190129\03. Source\Bonder\InoModule\obj\Debug\InoModule.pdb
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\BIN\InoModule.exe.config
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\BIN\InoModule.exe
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\BIN\InoModule.pdb
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\BIN\UCL.dll
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\BIN\UCL.pdb
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.exe
+C:\Users\innobiz\Desktop\Bonder_190130\InoModule\obj\Debug\InoModule.pdb
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.exe
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\BIN\InoModule.exe.config
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\BIN\InoModule.exe
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\BIN\InoModule.pdb
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\BIN\UCL.dll
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\BIN\UCL.pdb
+C:\Users\innobiz\Desktop\MotionTest\Bonder_190130\InoModule\obj\Debug\InoModule.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\BIN\InoModule.exe.config
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\BIN\InoModule.exe
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\BIN\InoModule.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.exe
+C:\Works\91. Customer\06. C#\Bonder\03. Source\Bonder_190130\InoModule\obj\Debug\InoModule.pdb
+D:\Bonder_190130\InoModule\BIN\InoModule.exe.config
+D:\Bonder_190130\InoModule\BIN\InoModule.exe
+D:\Bonder_190130\InoModule\BIN\InoModule.pdb
+D:\Bonder_190130\InoModule\BIN\UCL.dll
+D:\Bonder_190130\InoModule\BIN\UCL.pdb
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.VisionView.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmConv.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmEngr.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmHistory.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmLot.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmManual.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmMessage.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmLogin.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmMain.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmOper.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmPos.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmProgress.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.FrmSetting.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.exe
+D:\Bonder_190130\InoModule\obj\Debug\InoModule.pdb
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\BIN\InoModule.exe.config
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\BIN\InoModule.exe
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\BIN\InoModule.pdb
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\BIN\UCL.dll
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\BIN\UCL.pdb
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.csprojResolveAssemblyReference.cache
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmUpdateInfo.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.VisionView.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmAdmin.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmAlarm.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmConv.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmEngr.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmHistory.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmInputPos.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmLot.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmManual.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmMessage.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmLogin.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmMain.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmOper.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmPos.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmProgress.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmSetInOut.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmSetMotr.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.FrmSetting.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.Properties.Resources.resources
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.csproj.GenerateResource.Cache
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.exe
+C:\Works\91. Customer\06. C#\EmptyProject\03. Source\X86\PrjName\InoModule\obj\Debug\InoModule.pdb

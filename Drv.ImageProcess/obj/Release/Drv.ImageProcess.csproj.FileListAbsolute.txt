@@ -1,0 +1,48 @@
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\dll\x86\OpenCvSharpExtern.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\dll\x86\opencv_videoio_ffmpeg455.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\dll\x64\OpenCvSharpExtern.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\dll\x64\opencv_videoio_ffmpeg455_64.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Evision\Open_eVision_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Evision\Open_eVision_FNP_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Evision\Open_eVision_NetApi_22_04.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Halcon\halcondotnet.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Halcon\halcondotnet.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\OpencvSharp\OpenCvSharpExtern.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.Core.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.ImageFile.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.ImageProcessing.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\VisionPro\Cognex.VisionPro.ImageProcessing.xml
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Library\Evision\Open_eVision_NetApi_22_04.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.ImageProcess.dll.config
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.ImageProcess.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\bin\Drv.ImageProcess.pdb
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.ImageProcess\obj\Release\Drv.ImageProcess.csproj.AssemblyReference.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.ImageProcess\obj\Release\Drv.ImageProcess.csproj.CoreCompileInputs.cache
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.ImageProcess\obj\Release\Drv.ImageProcess.csproj.CopyComplete
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.ImageProcess\obj\Release\Drv.ImageProcess.dll
+E:\01_Project\10_Wafer Aligner_Zeus\1. PGM\Ver2\eMachine_K230202_14H\Drv.ImageProcess\obj\Release\Drv.ImageProcess.pdb
+C:\Works\eMachine\bin\dll\x86\OpenCvSharpExtern.dll
+C:\Works\eMachine\bin\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Works\eMachine\bin\dll\x64\OpenCvSharpExtern.dll
+C:\Works\eMachine\bin\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Works\eMachine\bin\Library\Evision\Open_eVision_22_04.dll
+C:\Works\eMachine\bin\Library\Evision\Open_eVision_FNP_22_04.dll
+C:\Works\eMachine\bin\Library\Evision\Open_eVision_NetApi_22_04.dll
+C:\Works\eMachine\bin\Library\Halcon\halcondotnet.dll
+C:\Works\eMachine\bin\Library\Halcon\halcondotnet.xml
+C:\Works\eMachine\bin\Library\OpencvSharp\OpenCvSharpExtern.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.Core.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.ImageFile.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.ImageProcessing.dll
+C:\Works\eMachine\bin\Library\VisionPro\Cognex.VisionPro.ImageProcessing.xml
+C:\Works\eMachine\bin\Library\Evision\Open_eVision_NetApi_22_04.dll.config
+C:\Works\eMachine\bin\Drv.ImageProcess.dll.config
+C:\Works\eMachine\bin\Drv.ImageProcess.dll
+C:\Works\eMachine\bin\Drv.ImageProcess.pdb
+C:\Works\eMachine\Drv.ImageProcess\obj\Release\Drv.ImageProcess.csproj.CoreCompileInputs.cache
+C:\Works\eMachine\Drv.ImageProcess\obj\Release\Drv.ImageProcess.dll
+C:\Works\eMachine\Drv.ImageProcess\obj\Release\Drv.ImageProcess.pdb
+C:\Works\eMachine\Drv.ImageProcess\obj\Release\Drv.ImageProcess.csproj.AssemblyReference.cache
+C:\Works\eMachine\Drv.ImageProcess\obj\Release\Drv.Imag.FD77FEFF.Up2Date

@@ -1,0 +1,126 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using Matrox.MatroxImagingLibrary;
+
+namespace Drv.ImageProcess.Core
+{
+	public enum CONVEXHULL_TYPE
+	{
+		E_CONVEXHULL_EXTRACT_ONLY,
+		E_CONVEXHULL_FILL,
+	}
+
+	public enum BLOB_COMMON_FEATURE
+	{
+		E_BLOB_COMMON_FEATURE_BOXSIZE_X					, 
+		E_BLOB_COMMON_FEATURE_BOXSIZE_Y					,
+		E_BLOB_COMMON_FEATURE_AREA						,
+		E_BLOB_COMMON_FEATURE_AREA_BOX					,
+		E_BLOB_COMMON_FEATURE_DIA_WIDTH					,
+		E_BLOB_COMMON_FEATURE_DIA_LENGTH				,
+		E_BLOB_COMMON_FEATURE_DIA_ELONGATION			,
+		E_BLOB_COMMON_FEATURE_FERETDIA_MIN				,
+		E_BLOB_COMMON_FEATURE_FERETDIA_MAX				,
+		E_BLOB_COMMON_FEATURE_FERETDIA_MEAN				,
+		E_BLOB_COMMON_FEATURE_FERETDIA_ELONGATION		,
+		E_CONVEX_HULL_FILL_RATIO						,
+		E_ROUGHNESS										,
+		E_CONVEX_PERIMETER								,
+		E_CONVEX_AREA									,
+		E_COMPACTNESS									,
+	}
+	public enum DECISION_LIST_OPER
+	{
+		E_DECISION_LIST_OPER_GREATER         ,
+		E_DECISION_LIST_OPER_GREATER_OR_EQUAL,
+		E_DECISION_LIST_OPER_LESS            ,
+		E_DECISION_LIST_OPER_LESS_OR_EQUAL   ,
+		E_DECISION_LIST_OPER_EQUAL           ,
+		E_DECISION_LIST_OPER_NOT_EQUAL,
+	}
+
+	public enum BLOB_SELECT_GEOMETRY_EXTRACT_METHOD
+	{
+		E_BLOB_SELECT_GEOMETRY_EXTRACT_METHOD_ALL,
+		E_BLOB_SELECT_GEOMETRY_EXTRACT_METHOD_MAX,
+		E_BLOB_SELECT_GEOMETRY_EXTRACT_METHOD_MIN,
+	}
+
+	public enum BLOB_MASK
+	{
+		E_BLOB_MASKTYPE_NONE	,		
+		E_BLOB_MASKTYPE_FILLRECT,
+		E_BLOB_MASKTYPE_RECT	,
+		E_BLOB_MASKTYPE_HORIZONE,
+		E_BLOB_MASKTYPE_VERTICAL,
+	}
+
+	public enum GV_OPERATION
+	{
+		
+	}
+
+	public enum BLOB_SELECT_POSITION_EXTRACT_FEATURE
+	{
+		E_BLOB_SELECT_POSITION_EXTRACT_FEATURE_NONE		     ,
+		E_BLOB_SELECT_POSITION_EXTRACT_FEATURE_GRAVITY_CENTER,	
+	    E_BLOB_SELECT_POSITION_EXTRACT_FEATURE_FERET_CENTER	 ,
+        E_BLOB_SELECT_POSITION_EXTRACT_FEATURE_BOX_LT		 ,
+		E_BLOB_SELECT_POSITION_EXTRACT_FEATURE_BOX_RT		 ,
+	    E_BLOB_SELECT_POSITION_EXTRACT_FEATURE_BOX_RB		 ,
+	    E_BLOB_SELECT_POSITION_EXTRACT_FEATURE_BOX_LB		 ,
+	}
+
+	public enum BLOB_SELECT_POSITION_EXTRACT_METHOD
+	{
+		 E_BLOB_SELECT_POSITION_EXTRACT_METHOD_NONE,
+		 E_BLOB_SELECT_POSITION_EXTRACT_METHOD_X_MIN,
+	     E_BLOB_SELECT_POSITION_EXTRACT_METHOD_X_MAX,
+		 E_BLOB_SELECT_POSITION_EXTRACT_METHOD_Y_MIN,
+		 E_BLOB_SELECT_POSITION_EXTRACT_METHOD_Y_MAX,
+	}
+
+
+	public enum BLOB_MARK_DIRECTION
+	{
+		E_BLOB_MARK_DIRECTION_LEFT,
+		E_BLOB_MARK_DIRECTION_CENTER_OF_GRAVITY,
+		E_BLOB_MARK_DIRECTION_RIGHT,
+		E_BLOB_MARK_DIRECTION_TOP,
+		E_BLOB_MARK_DIRECTION_BOTTOM,
+		E_BLOB_MARK_DIRECTION_CENTER_OF_BOUNDARY,
+	}
+
+	internal partial class Blob : IDisposable
+	{
+		private bool disposedValue;
+
+		protected virtual void Dispose(bool disposing)
+		{
+			if (!disposedValue)
+			{
+				if (disposing)
+				{
+					mSelection?.Dispose();
+					mCodedImage?.Dispose();
+
+					mCogBlob?.Dispose();
+                }
+
+				disposedValue = true;
+			}
+		}
+
+	    public void Dispose()
+		{
+			// 이 코드를 변경하지 마세요. 'Dispose(bool disposing)' 메서드에 정리 코드를 입력합니다.
+			Dispose(disposing: true);
+			GC.SuppressFinalize(this);
+		}
+	}
+}
