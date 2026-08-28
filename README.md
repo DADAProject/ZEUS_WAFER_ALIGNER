@@ -9,6 +9,7 @@
 - ROI 기능 및 ROI SKIP추가
 - FAN ALARM SKIP 기능 추가
 
+
 ## PROJECT Update History
 ### 2026.08.25
 - COMMUNICATION COMMAND 추가
